@@ -1,0 +1,1686 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+30,Explore Products Offers and Begin Application Process,"Navigate to the authentication app, explore product offers, and start the application process for various account types.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on image Menu
+Step 3: Click on link ExploreProductsOffers
+Step 4: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+33,Start Application Process with Lets Go Button,Navigate to the authentication app and start the application process for various account types using the Lets Go button.,"Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on button LetsGo
+Step 3: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 4: Take full page screenshot as checkpoint
+",High,NEW
+39,Sign Off and Verify Home Page,"Navigate to the STS app, handle unsaved changes, sign off, and verify the home page.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div UnsavedChanges
+Step 3: Click on link SignOff3 -> Navigate to page ''
+Step 4: Take full page screenshot as checkpoint
+",High,NEW
+41,Explore Products Offers and Test Account Creation,"Navigate to the authentication app, explore product offers, test account creation, and begin the application process.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on image Menu
+Step 3: Click on link ExploreProductsOffers2
+Step 4: Click on button TestAC
+Step 5: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
+51,Begin Application Process After Unsaved Changes,"Navigate to the authentication app, handle unsaved changes, and begin the application process for various account types.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on div UnsavedChanges
+Step 3: Click on button LetsGo
+Step 4: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+56,Search and Filter Results in Authentication App,"Navigate to the authentication app, perform a search with filters, and verify the home page after viewing results.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on div Français
+Step 3: Click on image ClipboardButton
+Step 4: Click on link ExpandChildRows
+Step 5: Click on link expandChildRows (ExpandChildRows2)
+Step 6: Click on span operatorID (OperatorID)
+Step 7: Click on input SearchWithinThread
+Step 8: Enter input value in input SearchWithinThread
+Step 9: Click on link ShowFilters
+Step 10: Click on input LocationID
+Step 11: Click on button Apply
+Step 12: Click on div SearchResults -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",High,NEW
+9,Initiate Assessment and Verify Home Page,"Navigate to the application, initiate an assessment, add products to the cart, and verify the home page.","Step 1: Navigate to prweb/PRAuth/app/{*}/{*}/!STANDARD
+Step 2: Initiate assessment and add products to the shopping cart.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCard
+	- Step 5: Click on select CustomerRecognition
+	- Step 6: Click on input DateSelection
+	- Step 7: Enter input value in input DateSelection
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCart
+	- Step 23: Click on button Request
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 3: Take full page screenshot as checkpoint
+",High,STABLE
+1,Complete Financial Assessment and Verify Home Page,"Navigate to the application page, fill out the financial assessment, add products to the cart, and verify the home page.","Step 1: Navigate to prweb/PRAuth/app/{*}/{*}/!STANDARD
+Step 2: Fill out financial assessment and add products to cart
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCard
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input DateInput
+	- Step 7: Enter input value in input DateInput
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AvgMonthlyBalance
+	- Step 11: Click on input NoOfDebits
+	- Step 12: Click on input COPSSelected
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Suivant
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button FaireUneDemande
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Suivant2
+Step 3: Take full page screenshot as checkpoint
+",High,STABLE
+32,Create Case and Manage Income and Expenses,"Access the STS application, refresh the section, create a new case, and manage income and expenses details.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on button RefreshSection
+Step 3: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 4: Take full page screenshot as checkpoint
+",High,NEW
+42,Log Management Configuration in Dynamic Content,"Navigate to the dynamic content app, configure log management settings, and verify the home page.","Step 1: Navigate to prweb/app/{*}/{*}/!STANDARD
+Step 2: Click on div DevStudio
+Step 3: Click on link DEVStudio
+Step 4: Click on link AdminStudio
+Step 5: Click on link Resources
+Step 6: Click on link logManagement (Listeners)
+Step 7: Click on link Resources
+Step 8: Click on link logManagement (LogCategories)
+Step 9: Click on input LogLevel
+Step 10: Enter input value in input LogLevel
+Step 11: Click on span ruleDetails (HTTPClientWireContent)
+Step 12: Click on i LogCategories
+Step 13: Click on link logSettings (ChangeLogLevel)
+Step 14: Click on div RuleKey
+Step 15: Click on select LogLevel
+Step 16: Click on button Submit
+Step 17: Click on i LogCategories2
+Step 18: Click on link logSettings (ChangeLogLevel2)
+Step 19: Click on select LogLevel
+Step 20: Click on select LogLevel
+Step 21: Click on div RuleKey
+Step 22: Click on select ResetTime
+Step 23: Click on button Submit
+Step 24: Enter input value in input LogLevel
+Step 25: Click on span ruleDetails (Header)
+Step 26: Click on i LoggerCategories
+Step 27: Click on link logSettings (ChangeLogLevel)
+Step 28: Click on div RuleKey
+Step 29: Click on select LogLevel
+Step 30: Click on button Submit
+Step 31: Enter input value in input LogLevel
+Step 32: Click on span ruleDetails (RuleActivity)
+Step 33: Click on i LoggerCategories2
+Step 34: Click on link logSettings (ChangeLogLevel)
+Step 35: Click on select LogLevel
+Step 36: Click on select LogLevel
+Step 37: Click on button Submit
+Step 38: Enter input value in input LogLevel
+Step 39: Click on span ruleDetails (RuleConnectMQ)
+Step 40: Click on i LoggerCategories3
+Step 41: Click on link logSettings (ChangeLogLevel)
+Step 42: Click on div RuleKey
+Step 43: Click on select LogLevel
+Step 44: Click on button Submit
+Step 45: Enter input value in input LogLevel
+Step 46: Click on span ruleDetails (PegaRules)
+Step 47: Click on i LoggerCategories4
+Step 48: Click on link logSettings (ChangeLogLevel)
+Step 49: Click on select LogLevel
+Step 50: Click on select LogLevel
+Step 51: Click on button Submit
+Step 52: Enter input value in input LogLevel
+Step 53: Click on span ruleDetails (RuleActivity2)
+Step 54: Click on i LoggerCategories5
+Step 55: Click on link logSettings (ChangeLogLevel)
+Step 56: Click on div RuleKey
+Step 57: Click on select LogLevel
+Step 58: Click on button Submit
+Step 59: Take full page screenshot as checkpoint
+",Medium,NEW
+58,Create Case and Manage Income in STS App,Create a new case and manage income and expenses details in the STS application while verifying the home page.,"Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div LoadingContent
+Step 3: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 4: Take full page screenshot as checkpoint
+",Medium,NEW
+48,Search Case and Manage Information,"Access the STS app, search for a case, navigate case information, and sign off while verifying the home page.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on div CaseNumber
+Step 4: Click on input CaseIDSearch2
+Step 5: Enter input value in input CaseIDSearch2
+Step 6: Click on button Search2
+Step 7: Click on link CaseID3
+Step 8: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 9: Click on link SignOff -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Medium,NEW
+46,Begin Application Process and Sign Off,"Start the application process for various account types, select customer details, and sign off while verifying the home page.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 3: Click on select CustomerDetails
+Step 4: Click on select CustomerDetails
+Step 5: Click on link SignOff -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",Medium,NEW
+57,Start Application Process with Inspector Span,Begin the application process for various account types and interact with the inspector span in the authentication app.,"Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on button LetsGo
+Step 3: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 4: Click on div CenterPanel
+Step 5: Click on div InspectorSpan
+Step 6: Click on div InspectorSpan
+Step 7: Click on tbody PropertyValue -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",Medium,NEW
+40,Begin Application Process and Verify Loading Mask,Start the application process for various account types and verify the loading mask in the authentication app.,"Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 3: Click on div CenterPanel
+Step 4: Click on div LoadingMask -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",Medium,NEW
+34,Start Application Process and Control Session,Begin the application process for various account types and control session settings in the authentication app.,"Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 3: Click on link sessionControl (SessionClose) -> Navigate to page ''
+Step 4: Take full page screenshot as checkpoint
+",Medium,NEW
+31,Search for Case and Sign Off,"Navigate to the STS app, search for a case by ID, refresh sections, and sign off while verifying the home page.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on input CaseIDSearch
+Step 4: Enter input value in input CaseIDSearch
+Step 5: Click on button Search
+Step 6: Click on link CaseSearchResults
+Step 7: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 8: Click on link SignOff -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 9: Click on div Container
+Step 10: Click on link SignOff -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",Medium,NEW
+37,Search and Refresh Case Information,"Navigate to the STS app, search for case information, refresh sections, and sign off while verifying the home page.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on main CenterPanel
+Step 4: Click on input CaseIDSearch2
+Step 5: Enter input value in input CaseIDSearch2
+Step 6: Click on button Search2
+Step 7: Click on link CaseSearchResults4
+Step 8: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 9: Click on link SignOff -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Medium,NEW
+44,Change Password and Manage Settings,"Change user password, manage settings, and verify the home page after changes in the application.","Step 1: Navigate to prweb/app/{*}/{*}/!STANDARD
+Step 2: Click on input OldPassword
+Step 3: Enter input value in input OldPassword
+Step 4: Enter input value in input NewPassword
+Step 5: Enter input value in input ConfirmPassword
+Step 6: Click on button ChangePassword
+Step 7: Click on button Email
+Step 8: Click on link logSettings (AccessGroup2)
+Step 9: Click on span tabDetails (CloseTab3)
+Step 10: Click on header Records2
+Step 11: Click on link ExpandChildRows
+Step 12: Click on link AccessGroup -> Navigate to page 'application page#prweb/app/{*}/{*}/!TABTHREAD0'
+Step 13: Click on link SelectFilters
+Step 14: Click on input FilterCriteria
+Step 15: Enter input value in input FilterCriteria
+Step 16: Click on button ApplyFilter -> Navigate to page 'dynamic content#prweb/app/{*}/{*}/!STANDARD'
+Step 17: Click on div SidebarCollapse -> Navigate to page 'application page#prweb/app/{*}/{*}/!TABTHREAD0'
+Step 18: Click on div Administrator -> Navigate to page 'application page#prweb/app/{*}/{*}/!TABTHREAD1'
+Step 19: Click on span History
+Step 20: Click on button HistoryDetails -> Navigate to page 'dynamic content#prweb/app/{*}/{*}/!STANDARD'
+Step 21: Click on span tabDetails (CloseTab4)
+Step 22: Click on div SidebarCollapse -> Navigate to page 'application page#prweb/app/{*}/{*}/!TABTHREAD1'
+Step 23: Click on span Definition -> Navigate to page 'dynamic content#prweb/app/{*}/{*}/!STANDARD'
+Step 24: Click on link expandChildRows (ExpandChildRows2)
+Step 25: Click on link ViewInstanceList -> Navigate to page 'dynamic content#prweb/app/{*}/{*}/!TABTHREAD2'
+Step 26: Click on div OfferDetails -> Navigate to page 'dynamic content#prweb/app/{*}/{*}/!STANDARD'
+Step 27: Click on span tabDetails (ServiceREST)
+Step 28: Click on span tabDetails (OfferDetails)
+Step 29: Click on link expandChildRows (ExpandChildRows3)
+Step 30: Click on link ViewInstanceList2 -> Navigate to page 'application page#prweb/app/{*}/{*}/!TABTHREAD4'
+Step 31: Click on div OfferDetails -> Navigate to page 'dynamic content#prweb/app/{*}/{*}/!TABTHREAD5'
+Step 32: Click on button Open -> Navigate to page 'application page#prweb/app/{*}/{*}/!TABTHREAD6'
+Step 33: Click on input DefaultAppVersion
+Step 34: Click on option ClassSelect
+Step 35: Click on option ClassSelect
+Step 36: Click on button SaveChanges -> Navigate to page 'dynamic content#prweb/app/{*}/{*}/!STANDARD'
+Step 37: Click on link CompassAdministrator
+Step 38: Click on link CDH -> Navigate to page ''
+Step 39: Take full page screenshot as checkpoint
+",Low,NEW
+55,Create Case and Refresh Sections,"Create a new case, manage income and expenses, and refresh sections in the STS app while verifying the home page.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on button RefreshSection
+Step 3: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 4: Click on link OperatorMenu
+Step 5: Click on input Search
+Step 6: Enter input value in input Search
+Step 7: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 8: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 9: Take full page screenshot as checkpoint
+",Low,NEW
+50,Search Case and Verify Home Page,"Search for a case by ID in the STS app, navigate information, and verify the home page after signing off.","Step 1: Navigate to prweb/sts/app/{*}/{*}/{*}
+Step 2: Click on link SignOff -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 3: Click on link CaseID5
+Step 4: Click on div SearchByCase2
+Step 5: Enter input value in input CaseIDSearch
+Step 6: Click on button Search
+Step 7: Click on button Search
+Step 8: Click on div SearchByCase2
+Step 9: Click on div RuleKey2 -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Low,NEW
+54,Manage User Roles and Save Changes,"Search for a user, manage their roles, and save changes in the dynamic content application.","Step 1: Navigate to prweb/app/PegaRULES /{*}/!STANDARD
+Step 2: Click on link Configure
+Step 3: Click on link Operators
+Step 4: Search for a user using their unique identifier.
+	- Step 1: Click on input UserIdentifier
+	- Step 2: Enter input value in input UserIdentifier
+	- Step 3: Click on button SearchOperators
+	- Step 4: Click on input UserIdentifier
+	- Step 5: Click on input UserIdentifier
+Step 5: Click on button Open2 -> Navigate to page 'dynamic content#prweb/app/PegaRULES /{*}/!TABTHREAD2'
+Step 6: Click on link RolesSection
+Step 7: Enter input value in input UserRoles
+Step 8: Click on button SaveChanges
+Step 9: Click on button SaveChanges2 -> Navigate to page 'dynamic content#prweb/app/PegaRULES /{*}/!STANDARD'
+Step 10: Click on span closeTabs (CloseTab5)
+Step 11: Click on span dynamicContent (Organization)
+Step 12: Search for a user using their unique identifier.
+	- Step 1: Click on input UserIdentifier
+	- Step 2: Enter input value in input UserIdentifier
+	- Step 3: Click on button SearchOperators
+	- Step 4: Click on input UserIdentifier
+	- Step 5: Click on input UserIdentifier
+Step 13: Click on button Open2 -> Navigate to page 'dynamic content#prweb/app/PegaRULES /{*}/!TABTHREAD3'
+Step 14: Click on link RolesSection2
+Step 15: Enter input value in input UserRoles2
+Step 16: Click on button SaveChanges
+Step 17: Click on button SaveChanges -> Navigate to page 'dynamic content#prweb/app/PegaRULES /{*}/!STANDARD'
+Step 18: Click on span closeTabs (CloseTab6)
+Step 19: Click on span dynamicContent (Organization)
+Step 20: Search for a user using their unique identifier.
+	- Step 1: Click on input UserIdentifier
+	- Step 2: Enter input value in input UserIdentifier
+	- Step 3: Click on button SearchOperators
+	- Step 4: Click on input UserIdentifier
+	- Step 5: Click on input UserIdentifier
+Step 21: Click on button Open2 -> Navigate to page 'dynamic content#prweb/app/PegaRULES /{*}/!TABTHREAD4'
+Step 22: Click on link RolesSection2
+Step 23: Enter input value in input UserRoles2
+Step 24: Click on button SaveChanges
+Step 25: Click on button SaveChanges -> Navigate to page ''
+Step 26: Take full page screenshot as checkpoint
+",Low,NEW
+43,Search for Checked Out Records,"Navigate to the application page, search for checked out records, and verify the home page.","Step 1: Navigate to prweb/app/cdh /{*}/!STANDARD
+Step 2: Click on input SearchText
+Step 3: Click on input SearchText
+Step 4: Click on input SearchText
+Step 5: Click on input SearchText
+Step 6: Click on input SearchText
+Step 7: Click on i ApplicationMenu
+Step 8: Click on i ApplicationMenu
+Step 9: Click on i ApplicationMenu
+Step 10: Click on i ApplicationMenu
+Step 11: Click on i ApplicationMenu
+Step 12: Click on button CheckedOutRecords -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",Low,NEW
+38,User Roles Management in Dynamic Content,"Navigate to the dynamic content app, manage user roles, and verify the home page after changes.","Step 1: Navigate to prweb/app/PegaRULES /{*}/!STANDARD
+Step 2: Click on div SecurityStatus
+Step 3: Click on link Configure
+Step 4: Click on link Operators
+Step 5: Search for a user using their unique identifier.
+	- Step 1: Click on input UserIdentifier
+	- Step 2: Enter input value in input UserIdentifier
+	- Step 3: Click on button SearchOperators
+	- Step 4: Click on input UserIdentifier
+	- Step 5: Click on input UserIdentifier
+Step 6: Click on link CompassAdministrator
+Step 7: Click on link CDHAdministrator
+Step 8: Click on header Records
+Step 9: Click on link ExpandChildRows
+Step 10: Click on link AccessGroup
+Step 11: Search for a user using their unique identifier.
+	- Step 1: Click on input UserIdentifier
+	- Step 2: Enter input value in input UserIdentifier
+	- Step 3: Click on button SearchOperators
+	- Step 4: Click on input UserIdentifier
+	- Step 5: Click on input UserIdentifier
+Step 12: Click on span Operators
+Step 13: Click on div TerminalID -> Navigate to page 'dynamic content#prweb/app/PegaRULES /{*}/!TABTHREAD2'
+Step 14: Click on div TerminalInfo -> Navigate to page 'dynamic content#prweb/app/PegaRULES /{*}/!STANDARD'
+Step 15: Click on span closeTabs (COMPASSR2P7X)
+Step 16: Click on span closeTabs (CloseTab)
+Step 17: Click on span dynamicContent (CloseTab2) -> Navigate to page 'application page#prweb/app/PegaRULES /{*}/!TABTHREAD0'
+Step 18: Click on div COMPASSR2P7X -> Navigate to page 'dynamic content#prweb/app/PegaRULES /{*}/!TABTHREAD2'
+Step 19: Click on link RolesSection
+Step 20: Enter input value in input UserRoles
+Step 21: Click on button SaveChanges
+Step 22: Click on button SaveChanges2 -> Navigate to page ''
+Step 23: Take full page screenshot as checkpoint
+",Low,NEW
+35,Search Case and Navigate Information,"Search for a case in the STS app, navigate case information, and sign off while verifying the home page.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div Container2
+Step 3: Click on link CaseSearch
+Step 4: Click on link CaseSearch
+Step 5: Click on button Clear
+Step 6: Click on div Header
+Step 7: Click on input CaseIDSearch2
+Step 8: Enter input value in input CaseIDSearch2
+Step 9: Click on button Search2
+Step 10: Click on link CaseSearchResults2
+Step 11: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 12: Click on link SignOff2 -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 13: Click on link Home
+Step 14: Click on link SignOff2 -> Navigate to page ''
+Step 15: Take full page screenshot as checkpoint
+",Low,NEW
+36,Search for Case with Filters and Refresh Sections,Search for a case using filters and refresh sections in the STS app while verifying the home page.,"Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch2
+Step 3: Click on div SearchByCase
+Step 4: Click on link ViewMoreFilterOptions
+Step 5: Click on image Calendar
+Step 6: Click on link Today
+Step 7: Click on button Search
+Step 8: Click on span Preview
+Step 9: Search for a case using its ID and refresh the section.
+	- Step 1: Click on input CaseIDSearch
+	- Step 2: Enter input value in input CaseIDSearch
+	- Step 3: Click on button Search3
+	- Step 4: Click on link CaseID6 -> Navigate to page 'application page#prweb/sts/app/{*}/{*}/{*}'
+	- Step 5: Click on button RefreshSection
+Step 10: Click on button RefreshSection
+Step 11: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 12: Click on button RefreshSection -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 13: Click on input CaseIDSearch
+Step 14: Enter input value in input CaseIDSearch
+Step 15: Click on button Search
+Step 16: Click on link CaseSearchResults3
+Step 17: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 18: Take full page screenshot as checkpoint
+",Trivial,NEW
+45,Multiple Case Searches and Refresh Sections,Conduct multiple case searches and refresh sections in the STS app while verifying the home page.,"Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on link CaseSearch
+Step 4: Click on div RuleKey
+Step 5: Click on link ViewMoreFilters
+Step 6: Click on input CaseIDSearch2
+Step 7: Enter input value in input CaseIDSearch2
+Step 8: Click on button Search2
+Step 9: Click on link CaseID
+Step 10: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 11: Click on input CaseIDSearch2
+Step 12: Enter input value in input CaseIDSearch2
+Step 13: Click on button Search2
+Step 14: Click on link CaseID2
+Step 15: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 16: Search for a case using its ID and refresh the section.
+	- Step 1: Click on input CaseIDSearch
+	- Step 2: Enter input value in input CaseIDSearch
+	- Step 3: Click on button Search3
+	- Step 4: Click on link CaseID6 -> Navigate to page 'application page#prweb/sts/app/{*}/{*}/{*}'
+	- Step 5: Click on button RefreshSection
+Step 17: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 18: Take full page screenshot as checkpoint
+",Trivial,NEW
+47,Dynamic Content Exploration and Offer Negotiation,"Navigate through dynamic content, manage offers, and verify the home page after multiple interactions.","Step 1: Navigate to prweb/app/cdh /{*}/!STANDARD
+Step 2: Click on i applicationTabs (RecordsTab)
+Step 3: Click on header applicationSections (App)
+Step 4: Click on div ClassesPanel
+Step 5: Click on div ClassesPanel
+Step 6: Click on input AppExplorerWorkPool
+Step 7: Click on input AppExplorerWorkPool
+Step 8: Click on input AppExplorerWorkPool
+Step 9: Click on input AppExplorerWorkPool
+Step 10: Enter input value in input AppExplorerWorkPool
+Step 11: Click on tr CDHRepository
+Step 12: Click on link CDHRepository
+Step 13: Click on link CDHRepository -> Navigate to page 'application page#prweb/app/cdh /{*}/!TABTHREAD0'
+Step 14: Click on span PrepopulateFinal -> Navigate to page 'application page#prweb/app/cdh /{*}/!STANDARD'
+Step 15: Click on link Clipboard
+Step 16: Click on link ViewingThread
+Step 17: Click on input SearchForProperty
+Step 18: Enter input value in input SearchForProperty
+Step 19: Click on span CDHRepository
+Step 20: Click on link ExpandChildRows
+Step 21: Click on link ExpandChildRows2
+Step 22: Click on link ExpandToShowChildRows
+Step 23: Click on span CDHCustomer
+Step 24: Click on link ExpandToShowChildRows2
+Step 25: Click on span ClientDetails
+Step 26: Click on link ExpandToShowChildRows3
+Step 27: Click on span ClientDetails2
+Step 28: Click on header applicationSections (Records)
+Step 29: Click on i applicationTabs (App)
+Step 30: Click on input AppExplorerWorkPool
+Step 31: Click on input AppExplorerWorkPool
+Step 32: Enter input value in input AppExplorerWorkPool
+Step 33: Click on div App
+Step 34: Click on link ExpandToShowChildRows4
+Step 35: Click on link OfferNegotiation -> Navigate to page 'dynamic content#prweb/app/cdh /{*}/!TABTHREAD2'
+Step 36: Click on link SelectToShowFilters
+Step 37: Click on input FilterCriteria
+Step 38: Enter input value in input FilterCriteria
+Step 39: Click on button Apply
+Step 40: Click on div ON -> Navigate to page 'application page#prweb/app/cdh /{*}/!STANDARD'
+Step 41: Click on link Clipboard -> Navigate to page 'dynamic content#prweb/app/cdh /{*}/!TABTHREAD3'
+Step 42: Click on div HeaderLabel
+Step 43: Click on div CaseIDSO -> Navigate to page 'application page#prweb/app/cdh /{*}/!STANDARD'
+Step 44: Click on input SearchText2
+Step 45: Enter input value in input SearchText2
+Step 46: Click on link SearchResultName
+Step 47: Click on input SearchText2
+Step 48: Click on link SearchResultName -> Navigate to page 'dynamic content#prweb/app/cdh /{*}/!TABTHREAD5'
+Step 49: Click on button RuleFormToolbar
+Step 50: Click on link Run
+Step 51: Click on input RunValue
+Step 52: Enter input value in input RunValue
+Step 53: Click on button clipboardRun (Run)
+Step 54: Click on button clipboardRun (Clipboard)
+Step 55: Click on link ExpandToShowChildRows
+Step 56: Click on link expandToShowChildRows (ExpandToShowChildRows2)
+Step 57: Click on link expandToShowChildRows (ExpandToShowChildRows3)
+Step 58: Click on link expandToShowChildRows (ExpandToShowChildRows4)
+Step 59: Click on span addressDetails (SelectedPropositionList)
+Step 60: Click on input SearchForProperty
+Step 61: Enter input value in input SearchForProperty
+Step 62: Click on div SearchResults
+Step 63: Click on div SearchResults
+Step 64: Click on input SearchForProperty2
+Step 65: Enter input value in input SearchForProperty2
+Step 66: Click on link filterOptions (SelectToShowFilters2)
+Step 67: Click on link filterOptions (SelectToShowFilters2)
+Step 68: Click on link filterOptions (SelectToShowFilters2)
+Step 69: Click on div GridNode
+Step 70: Click on input checkbox (Checkbox)
+Step 71: Click on button Apply2
+Step 72: Click on link filterOptions (SelectToShowFilters3)
+Step 73: Click on input checkbox (Checkbox2)
+Step 74: Click on button Apply2
+Step 75: Click on div Flex
+Step 76: Click on span SOpg
+Step 77: Click on tr dynamicData (SuppressCrossSells)
+Step 78: Click on link expandToShowChildRows (ExpandToShowChildRows5)
+Step 79: Click on span IncomingOfferList
+Step 80: Click on div Flex
+Step 81: Click on link expandToShowChildRows (ExpandToShowChildRows6)
+Step 82: Click on span ClientDetails
+Step 83: Click on tr dynamicData (Age)
+Step 84: Click on tr dynamicData (DisplaySIN)
+Step 85: Click on link expandToShowChildRows (ExpandToShowChildRows7)
+Step 86: Click on span addressDetails (Address)
+Step 87: Click on span ClientDetails
+Step 88: Click on link ExpandToShowChildRows8
+Step 89: Click on span Address2
+Step 90: Click on link expandToShowChildRows (ExpandToShowChildRows9)
+Step 91: Click on span postalAddress (PostalAddress)
+Step 92: Click on link ExpandToShowChildRows10
+Step 93: Click on link expandToShowChildRows (ExpandToShowChildRows11)
+Step 94: Click on span postalAddress (PostalAddress2)
+Step 95: Click on link expandToShowChildRows (ExpandToShowChildRows12)
+Step 96: Click on span PostalAddress3 -> Navigate to page 'application page#prweb/app/cdh /{*}/!STANDARD'
+Step 97: Click on input SearchText2
+Step 98: Click on input SearchText2
+Step 99: Click on i ApplicationMenu2
+Step 100: Click on link CDHAdministrator
+Step 101: Click on input SearchText2
+Step 102: Click on input SearchText2
+Step 103: Enter input value in input SearchText2
+Step 104: Click on link SearchResultName -> Navigate to page 'application page#prweb/app/cdh /{*}/!TABTHREAD0'
+Step 105: Click on button RuleFormToolbar
+Step 106: Click on link Run
+Step 107: Click on input RunValue
+Step 108: Enter input value in input RunValue
+Step 109: Click on button clipboardRun (Run)
+Step 110: Click on button clipboardRun (Clipboard)
+Step 111: Click on div SidebarCollapse
+Step 112: Click on span SOpg
+Step 113: Click on tbody PropertyValue
+Step 114: Click on div crossSellOptions (CrossSellCreditCard)
+Step 115: Click on div crossSellOptions (CrossSellCOPS)
+Step 116: Click on tr CrossSellCreditCard
+Step 117: Click on link ExpandToShowChildRows5
+Step 118: Click on span NextBestOffer
+Step 119: Click on link expandToShowChildRows (ExpandToShowChildRows6)
+Step 120: Click on link expandToShowChildRows (ExpandToShowChildRows7)
+Step 121: Click on link expandToShowChildRows (ExpandToShowChildRows8)
+Step 122: Click on link expandToShowChildRows (ExpandToShowChildRows9)
+Step 123: Click on link expandToShowChildRows (ExpandToShowChildRows10)
+Step 124: Click on link expandToShowChildRows (ExpandToShowChildRows11)
+Step 125: Click on link expandToShowChildRows (ExpandToShowChildRows12)
+Step 126: Click on link ExpandToShowChildRows13
+Step 127: Click on link ExpandToShowChildRows14
+Step 128: Click on span OfferPaletteGroups
+Step 129: Click on link expandToShowChildRows (ExpandToShowChildRows15)
+Step 130: Click on span CDHAPILogPage
+Step 131: Click on tr PrePopulate1Req -> Navigate to page 'application page#prweb/app/cdh /{*}/!STANDARD'
+Step 132: Click on i ApplicationMenu2
+Step 133: Click on link CDHAdministrator2 -> Navigate to page ''
+Step 134: Take full page screenshot as checkpoint
+",Trivial,NEW
+49,Search Multiple Cases and Sign Off,"Search for multiple cases in the STS app, navigate case information, and sign off while verifying the home page.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on input CaseIDSearch2
+Step 4: Enter input value in input CaseIDSearch2
+Step 5: Click on button Search2
+Step 6: Click on link CaseID4
+Step 7: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 8: Click on input CaseID
+Step 9: Enter input value in input CaseID
+Step 10: Click on button Search
+Step 11: Click on link CaseID
+Step 12: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 13: Click on input CaseID
+Step 14: Enter input value in input CaseID
+Step 15: Click on button Search
+Step 16: Click on link CaseID2
+Step 17: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 18: Click on link SignOff3
+Step 19: Click on link SignOff4
+Step 20: Click on link SignOff5 -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 21: Click on link SignOff3 -> Navigate to page ''
+Step 22: Take full page screenshot as checkpoint
+",Trivial,NEW
+52,Create Cases and Manage Income Details,Create new cases and manage income details in the STS app while verifying the home page.,"Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div DataTestID
+Step 3: Click on link WorkGroup
+Step 4: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 5: Click on button RefreshSection
+Step 6: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 7: Click on link WorkGroup2
+Step 8: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 9: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 10: Take full page screenshot as checkpoint
+",Trivial,NEW
+53,Create and Refresh Multiple Cases,Create multiple cases and refresh sections in the STS app while verifying the home page.,"Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div UnsavedChanges
+Step 3: Click on item DynamicNavMenu
+Step 4: Click on link WorkGroup
+Step 5: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 6: Click on button RefreshSection -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 7: Click on link OpenAssignment -> Navigate to page 'application page#prweb/sts/app/{*}/{*}/{*}'
+Step 8: Click on button RefreshSection
+Step 9: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 10: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 11: Click on button RefreshSection
+Step 12: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 13: Click on button RefreshSection
+Step 14: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 15: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 16: Click on button RefreshSection
+Step 17: Navigate case information and refresh sections
+	- Step 1: Click on div ReviewCaseInformation
+	- Step 2: Click on link CIBCAccount
+	- Step 3: Click on div HeaderLabel
+	- Step 4: Click on button RefreshSection
+	- Step 5: Click on button Actions
+	- Step 6: Click on button RefreshSection
+	- Step 7: Click on div EmptyDiv
+	- Step 8: Click on button Navigator
+	- Step 9: Click on button RefreshSection
+	- Step 10: Click on button RefreshSection
+	- Step 11: Click on div ReviewCaseInformation
+	- Step 12: Click on link CaseSearchResults3
+	- Step 13: Click on div HeaderLabel2
+Step 18: Take full page screenshot as checkpoint
+",Trivial,NEW
+27,Run Rules and Verify Home Page,"Navigate to the application, run rules, perform actions, and verify the home page.","Step 1: Navigate to prweb/app/cdh /{*}/!STANDARD
+Step 2: Click on input SearchText2
+Step 3: Click on input SearchText2
+Step 4: Enter input value in input SearchText2
+Step 5: Click on link SearchResultName -> Navigate to page 'application page#prweb/app/cdh /{*}/!TABTHREAD0'
+Step 6: Click on button RuleFormToolbar
+Step 7: Click on link Run
+Step 8: Click on input RunValue
+Step 9: Enter input value in input RunValue
+Step 10: Click on button clipboardRun (Run)
+Step 11: Click on button clipboardRun (Clipboard)
+Step 12: Click on div SidebarCollapse
+Step 13: Click on span SOpg
+Step 14: Click on tbody PropertyValue
+Step 15: Click on div crossSellOptions (CrossSellCreditCard)
+Step 16: Click on div crossSellOptions (CrossSellCOPS)
+Step 17: Click on tr CrossSellCreditCard
+Step 18: Click on link ExpandToShowChildRows
+Step 19: Click on span NextBestOffer
+Step 20: Click on link expandChildRows (ExpandToShowChildRows2)
+Step 21: Click on link expandChildRows (ExpandToShowChildRows3)
+Step 22: Click on link expandChildRows (ExpandToShowChildRows4)
+Step 23: Click on link expandChildRows (ExpandToShowChildRows5)
+Step 24: Click on link expandChildRows (ExpandToShowChildRows6)
+Step 25: Click on link expandChildRows (ExpandToShowChildRows7)
+Step 26: Click on link expandChildRows (ExpandToShowChildRows8)
+Step 27: Click on link ExpandToShowChildRows9
+Step 28: Click on link ExpandToShowChildRows10
+Step 29: Click on span OfferPaletteGroups
+Step 30: Click on link expandChildRows (ExpandToShowChildRows11)
+Step 31: Click on span CDHAPILogPage
+Step 32: Click on tr PrePopulate1Req -> Navigate to page 'application page#prweb/app/cdh /{*}/!STANDARD'
+Step 33: Click on i ApplicationMenu
+Step 34: Click on link CDHAdministrator -> Navigate to page ''
+Step 35: Take full page screenshot as checkpoint
+",Trivial,STABLE
