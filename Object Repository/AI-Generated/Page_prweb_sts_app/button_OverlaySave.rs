@@ -34,7 +34,7 @@
         <name>name</name>
         <type>Main</type>
         <value>CreditCardcOnfigButtons_DEMHandler.OfferPaletteGroups(CreditCard).SubGroupList(1).Propositions(3)_7</value>
-        <webElementGuid>342bb630-dc62-4eb1-9294-1ac23d412bde</webElementGuid>
+        <webElementGuid>567b261e-316b-4f28-b205-51b959e199ec</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>342bb630-dc62-4eb1-9294-1ac23d412bde</webElementGuid>
+        <webElementGuid>567b261e-316b-4f28-b205-51b959e199ec</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
