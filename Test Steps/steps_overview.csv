@@ -1,0 +1,2011 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+59,Search Case and Submit Final Decisions and Notes,"Navigate to the case search, input case ID, search for results, review actions, and submit final decisions.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on input CaseIDSearch
+Step 4: Enter input value in input CaseIDSearch
+Step 5: Click on button Search
+Step 6: Click on link CaseSearchResults
+Step 7: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 8: Click on link SignOff -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 9: Click on div Container
+Step 10: Click on link SignOff2 -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",High,NEW
+41,Explore Products Offers and Test Account Creation,"Navigate to the authentication app, explore product offers, test account creation, and begin the application process.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on image Menu
+Step 3: Click on link ExploreProductsOffers2
+Step 4: Click on button TestAC
+Step 5: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+1,Complete Financial Assessment and Verify Home Page,"Navigate to the application page, fill out the financial assessment, add products to the cart, and verify the home page.","Step 1: Navigate to prweb/PRAuth/app/{*}/{*}/!STANDARD
+Step 2: Fill out financial assessment and add products to cart
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCard
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input DateInput
+	- Step 7: Enter input value in input DateInput
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AvgMonthlyBalance
+	- Step 11: Click on input NoOfDebits
+	- Step 12: Click on input COPSSelected
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Suivant
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button FaireUneDemande
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Suivant2
+Step 3: Take full page screenshot as checkpoint
+",High,STABLE
+9,Initiate Assessment and Verify Home Page,"Navigate to the application, initiate an assessment, add products to the cart, and verify the home page.","Step 1: Navigate to prweb/PRAuth/app/{*}/{*}/!STANDARD
+Step 2: Initiate assessment and add products to the shopping cart.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCard
+	- Step 5: Click on select CustomerRecognition
+	- Step 6: Click on input DateSelection
+	- Step 7: Enter input value in input DateSelection
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCart
+	- Step 23: Click on button Request
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 3: Take full page screenshot as checkpoint
+",High,STABLE
+62,Search and Manage Cases with Multiple Actions,"Navigate to case search, input case ID, search for results, and submit final decisions through various actions.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on main CenterPanel
+Step 4: Click on input CaseIDSearch2
+Step 5: Enter input value in input CaseIDSearch2
+Step 6: Click on button Search2
+Step 7: Click on link CaseSearchResults4
+Step 8: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 9: Click on link SignOff -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",High,NEW
+57,Start Application Process with Inspector Span,Begin the application process for various account types and interact with the inspector span in the authentication app.,"Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on button LetsGo
+Step 3: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 4: Click on div CenterPanel
+Step 5: Click on div InspectorSpan
+Step 6: Click on div InspectorSpan
+Step 7: Click on tbody PropertyValue -> Navigate to page ''
+Step 8: Take full page screenshot as checkpoint
+",High,STABLE
+56,Search and Filter Results in Authentication App,"Navigate to the authentication app, perform a search with filters, and verify the home page after viewing results.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on div Français
+Step 3: Click on image ClipboardButton
+Step 4: Click on link ExpandChildRows
+Step 5: Click on link expandChildRows (ExpandChildRows2)
+Step 6: Click on span operatorID (OperatorID)
+Step 7: Click on input SearchWithinThread
+Step 8: Enter input value in input SearchWithinThread
+Step 9: Click on link ShowFilters
+Step 10: Click on input LocationID
+Step 11: Click on button Apply
+Step 12: Click on div SearchResults -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",High,STABLE
+51,Begin Application Process After Unsaved Changes,"Navigate to the authentication app, handle unsaved changes, and begin the application process for various account types.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on div UnsavedChanges
+Step 3: Click on button LetsGo
+Step 4: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 5: Take full page screenshot as checkpoint
+",High,STABLE
+46,Begin Application Process and Sign Off,"Start the application process for various account types, select customer details, and sign off while verifying the home page.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 3: Click on select CustomerDetails
+Step 4: Click on select CustomerDetails
+Step 5: Click on link SignOff -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",High,STABLE
+58,Create Case and Manage Income in STS App,Create a new case and manage income and expenses details in the STS application while verifying the home page.,"Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div LoadingContent
+Step 3: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 4: Take full page screenshot as checkpoint
+",High,STABLE
+40,Begin Application Process and Verify Loading Mask,Start the application process for various account types and verify the loading mask in the authentication app.,"Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 3: Click on div CenterPanel
+Step 4: Click on div LoadingMask -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",High,STABLE
+39,Sign Off and Verify Home Page,"Navigate to the STS app, handle unsaved changes, sign off, and verify the home page.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div UnsavedChanges
+Step 3: Click on link SignOff3 -> Navigate to page ''
+Step 4: Take full page screenshot as checkpoint
+",High,STABLE
+34,Start Application Process and Control Session,Begin the application process for various account types and control session settings in the authentication app.,"Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 3: Click on link sessionControl (SessionClose) -> Navigate to page ''
+Step 4: Take full page screenshot as checkpoint
+",High,STABLE
+33,Start Application Process with Lets Go Button,Navigate to the authentication app and start the application process for various account types using the Lets Go button.,"Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on button LetsGo
+Step 3: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 4: Take full page screenshot as checkpoint
+",High,STABLE
+32,Create Case and Manage Income and Expenses,"Access the STS application, refresh the section, create a new case, and manage income and expenses details.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on button RefreshSection
+Step 3: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 4: Take full page screenshot as checkpoint
+",High,STABLE
+30,Explore Products Offers and Begin Application Process,"Navigate to the authentication app, explore product offers, and start the application process for various account types.","Step 1: Navigate to /prweb/PRAuth/app/*/*/!STANDARD
+Step 2: Click on image Menu
+Step 3: Click on link ExploreProductsOffers
+Step 4: Begin application process and add various account types.
+	- Step 1: Click on button Commencer
+	- Step 2: Click on input ChequingAccount
+	- Step 3: Click on input SavingsAccount
+	- Step 4: Click on input CreditCardAccount
+	- Step 5: Click on select CustomerDetails
+	- Step 6: Click on input ArrivalDate
+	- Step 7: Enter input value in input ArrivalDate
+	- Step 8: Click on input NewcomerCategory
+	- Step 9: Click on input CurrencyType
+	- Step 10: Click on input AverageMonthlyBalance
+	- Step 11: Click on input NumberOfTransactions
+	- Step 12: Click on input COPSSelection
+	- Step 13: Click on select CreditCardFeatures
+	- Step 14: Click on input AnnualIncome
+	- Step 15: Enter input value in input AnnualIncome
+	- Step 16: Click on button Next
+	- Step 17: Click on button HiddenAssessmentSubmit
+	- Step 18: Click on button AddToCart
+	- Step 19: Click on button AddToCart2
+	- Step 20: Click on header CreditCards
+	- Step 21: Click on button AddToCart3
+	- Step 22: Click on link ShoppingCartCount
+	- Step 23: Click on button Apply2
+	- Step 24: Click on input ClientAttestation
+	- Step 25: Click on button Next2
+Step 5: Take full page screenshot as checkpoint
+",High,STABLE
+70,Search Case and Submit Decisions,"Navigate to case search, input case ID, search for results, and submit final decisions and notes.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on div CaseNumber
+Step 4: Click on input CaseIDSearch2
+Step 5: Enter input value in input CaseIDSearch2
+Step 6: Click on button Search2
+Step 7: Click on link CaseID3
+Step 8: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 9: Click on link SignOff -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",High,NEW
+66,Manage Log Settings and User Roles,"Access log management settings, apply filters, configure log levels, and save user roles multiple times.","Step 1: Navigate to /prweb/app/*/*/!STANDARD
+Step 2: Click on div DevStudio
+Step 3: Click on link DEVStudio
+Step 4: Click on link AdminStudio
+Step 5: Click on link Resources
+Step 6: Click on link logManagement (Listeners)
+Step 7: Click on link Resources
+Step 8: Click on link logManagement (LogCategories)
+Step 9: Click on input FilterCriteria
+Step 10: Enter input value in input FilterCriteria
+Step 11: Click on span ruleDetails (HTTPClientContent)
+Step 12: Click on i LogCategories
+Step 13: Click on link logSettings (ChangeLogLevel)
+Step 14: Click on div RuleKey
+Step 15: Click on select LogLevel
+Step 16: Click on button Submit
+Step 17: Click on i LogCategories2
+Step 18: Click on link logSettings (ChangeLogLevel2)
+Step 19: Click on select LogLevel
+Step 20: Click on select LogLevel
+Step 21: Click on div RuleKey
+Step 22: Click on select ResetTime
+Step 23: Click on button Submit
+Step 24: Enter input value in input FilterCriteria
+Step 25: Click on span ruleDetails (HTTPClientHeader)
+Step 26: Click on i LogCategories3
+Step 27: Click on link logSettings (ChangeLogLevel)
+Step 28: Click on div RuleKey
+Step 29: Click on select LogLevel
+Step 30: Click on button Submit
+Step 31: Enter input value in input FilterCriteria
+Step 32: Click on span ruleDetails (RuleActivity)
+Step 33: Click on i LogCategories4
+Step 34: Click on link logSettings (ChangeLogLevel)
+Step 35: Click on select LogLevel
+Step 36: Click on select LogLevel
+Step 37: Click on button Submit
+Step 38: Enter input value in input FilterCriteria
+Step 39: Click on span ruleDetails (RuleConnectMQ)
+Step 40: Click on i LogCategories5
+Step 41: Click on link logSettings (ChangeLogLevel)
+Step 42: Click on div RuleKey
+Step 43: Click on select LogLevel
+Step 44: Click on button Submit
+Step 45: Enter input value in input FilterCriteria
+Step 46: Click on span ruleDetails (PegaRules)
+Step 47: Click on i LogCategories6
+Step 48: Click on link logSettings (ChangeLogLevel)
+Step 49: Click on select LogLevel
+Step 50: Click on select LogLevel
+Step 51: Click on button Submit
+Step 52: Enter input value in input FilterCriteria
+Step 53: Click on span ruleDetails (RuleActivity2)
+Step 54: Click on i LogCategories7
+Step 55: Click on link logSettings (ChangeLogLevel)
+Step 56: Click on div RuleKey
+Step 57: Click on select LogLevel
+Step 58: Click on button Submit
+Step 59: Take full page screenshot as checkpoint
+",High,NEW
+75,Create and Manage New Cases with Income Details,"Create new cases, manage income and expenses, and submit final decisions and notes.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on button RefreshSection
+Step 3: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 4: Click on link OperatorMenu
+Step 5: Click on input Search
+Step 6: Enter input value in input Search
+Step 7: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 8: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 9: Take full page screenshot as checkpoint
+",Medium,NEW
+64,Search for Checked Out Records,"Navigate through the application, search for checked out records, and verify the home page.","Step 1: Navigate to /prweb/app/cdh /*/!STANDARD
+Step 2: Click on input SearchText
+Step 3: Click on input SearchText
+Step 4: Click on input SearchText
+Step 5: Click on input SearchText
+Step 6: Click on input SearchText
+Step 7: Click on i ApplicationMenu
+Step 8: Click on i ApplicationMenu
+Step 9: Click on i ApplicationMenu
+Step 10: Click on i ApplicationMenu
+Step 11: Click on i ApplicationMenu
+Step 12: Click on button CheckedOutRecords -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",Medium,NEW
+63,Configure User Roles and Save Changes,"Access user roles configuration, input roles, and save changes multiple times across sections.","Step 1: Navigate to /prweb/app/PegaRULES /*/!STANDARD
+Step 2: Click on link Configure
+Step 3: Click on link Operators
+Step 4: Input user roles and save changes multiple times.
+	- Step 1: Click on link RolesSection
+	- Step 2: Enter input value in input UserRoles
+	- Step 3: Click on button SaveChanges
+	- Step 4: Click on button SaveChanges2
+	- Step 5: Click on link RolesSection
+	- Step 6: Enter input value in input UserRoles
+	- Step 7: Click on button SaveChanges
+	- Step 8: Click on button SaveChanges2
+Step 5: Click on link RolesSection
+Step 6: Enter input value in input UserRoles
+Step 7: Click on button SaveChanges
+Step 8: Click on button SaveChanges2 -> Navigate to page '/prweb/app/PegaRULES /*/!STANDARD'
+Step 9: Click on span tabControl (CloseTab)
+Step 10: Click on span tabControl (OrganizationSecurity)
+Step 11: Input user roles and save changes multiple times.
+	- Step 1: Click on link RolesSection
+	- Step 2: Enter input value in input UserRoles
+	- Step 3: Click on button SaveChanges
+	- Step 4: Click on button SaveChanges2
+	- Step 5: Click on link RolesSection
+	- Step 6: Enter input value in input UserRoles
+	- Step 7: Click on button SaveChanges
+	- Step 8: Click on button SaveChanges2
+Step 12: Click on link RolesSection
+Step 13: Enter input value in input UserRoles
+Step 14: Click on button SaveChanges
+Step 15: Click on button SaveChanges2 -> Navigate to page '/prweb/app/PegaRULES /*/!STANDARD'
+Step 16: Click on span tabControl (CloseTab2)
+Step 17: Click on span tabControl (OrganizationSecurity)
+Step 18: Input user roles and save changes multiple times.
+	- Step 1: Click on link RolesSection
+	- Step 2: Enter input value in input UserRoles
+	- Step 3: Click on button SaveChanges
+	- Step 4: Click on button SaveChanges2
+	- Step 5: Click on link RolesSection
+	- Step 6: Enter input value in input UserRoles
+	- Step 7: Click on button SaveChanges
+	- Step 8: Click on button SaveChanges2
+Step 19: Click on link RolesSection
+Step 20: Enter input value in input UserRoles
+Step 21: Click on button SaveChanges
+Step 22: Click on button SaveChanges2 -> Navigate to page ''
+Step 23: Take full page screenshot as checkpoint
+",Medium,NEW
+60,Clear Case Search and Submit Final Decisions,"Clear previous case search, input new case ID, search for results, and submit final decisions.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div Container2
+Step 3: Click on link CaseSearch
+Step 4: Click on link CaseSearch
+Step 5: Click on button Clear
+Step 6: Click on div Header
+Step 7: Click on input CaseIDSearch2
+Step 8: Enter input value in input CaseIDSearch2
+Step 9: Click on button Search2
+Step 10: Click on link CaseSearchResults2
+Step 11: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 12: Click on link SignOff3 -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 13: Click on link Home
+Step 14: Click on link SignOff4 -> Navigate to page ''
+Step 15: Take full page screenshot as checkpoint
+",Medium,NEW
+65,Configure User Roles in Operators Section,"Configure user roles in the operators section, save changes, and verify the home page.","Step 1: Navigate to /prweb/app/PegaRULES /*/!STANDARD
+Step 2: Click on div SecurityStatus
+Step 3: Configure user roles in the operators section and save.
+	- Step 1: Click on link Configure
+	- Step 2: Click on link Operators -> Navigate to page '/prweb/app/PegaRULES /*/*'
+	- Step 3: Click on link RolesSection
+	- Step 4: Enter input value in input UserRoles
+	- Step 5: Click on button SaveChanges
+	- Step 6: Click on button SaveChanges2
+Step 4: Click on link CompassAdministrator
+Step 5: Click on link CDHAdministrator
+Step 6: Click on header Records
+Step 7: Click on link ExpandChildRows
+Step 8: Click on link ViewInstanceList
+Step 9: Input user roles and save changes multiple times.
+	- Step 1: Click on link RolesSection
+	- Step 2: Enter input value in input UserRoles
+	- Step 3: Click on button SaveChanges
+	- Step 4: Click on button SaveChanges2
+	- Step 5: Click on link RolesSection
+	- Step 6: Enter input value in input UserRoles
+	- Step 7: Click on button SaveChanges
+	- Step 8: Click on button SaveChanges2
+Step 10: Click on div IDInfo -> Navigate to page '/prweb/app/PegaRULES /*/!STANDARD'
+Step 11: Click on span tabControl (COMPASSInfo)
+Step 12: Click on span tabControl (CloseTab3)
+Step 13: Click on span tabControl (CloseTab4)
+Step 14: Input user roles and save changes multiple times.
+	- Step 1: Click on link RolesSection
+	- Step 2: Enter input value in input UserRoles
+	- Step 3: Click on button SaveChanges
+	- Step 4: Click on button SaveChanges2
+	- Step 5: Click on link RolesSection
+	- Step 6: Enter input value in input UserRoles
+	- Step 7: Click on button SaveChanges
+	- Step 8: Click on button SaveChanges2
+Step 15: Take full page screenshot as checkpoint
+",Low,NEW
+71,Search Multiple Cases and Submit Final Decisions,"Search multiple cases by ID, navigate through actions, and submit final decisions and notes.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on input CaseIDSearch2
+Step 4: Enter input value in input CaseIDSearch2
+Step 5: Click on button Search2
+Step 6: Click on link CaseID4
+Step 7: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 8: Click on input CaseIDSearch
+Step 9: Enter input value in input CaseIDSearch
+Step 10: Click on button Search
+Step 11: Click on link CaseSearchResults5
+Step 12: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 13: Click on input CaseIDSearch
+Step 14: Enter input value in input CaseIDSearch
+Step 15: Click on button Search
+Step 16: Click on link CaseSearchResults6
+Step 17: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 18: Click on link SignOff5
+Step 19: Click on link SignOff6
+Step 20: Click on link SignOff7 -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 21: Click on link SignOff -> Navigate to page ''
+Step 22: Take full page screenshot as checkpoint
+",Low,NEW
+72,Sign Off and Verify Home Page,"Search for a case, sign off, and verify navigation back to the home page.","Step 1: Navigate to /prweb/sts/app/*/*/*
+Step 2: Click on link SignOff -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 3: Click on link CaseID5
+Step 4: Click on div SearchByCase2
+Step 5: Enter input value in input CaseIDSearch
+Step 6: Click on button Search
+Step 7: Click on button Search
+Step 8: Click on div SearchByCase2
+Step 9: Click on div RuleKey2 -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Low,NEW
+73,Create Cases and Manage Income Details,"Create new cases, manage income and expenses, and submit final decisions.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div DataTestID
+Step 3: Click on link WorkGroup
+Step 4: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 5: Click on button RefreshSection
+Step 6: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 7: Click on link WorkGroup2
+Step 8: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 9: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 10: Take full page screenshot as checkpoint
+",Low,NEW
+61,Search Case by ID and Refresh Section,"Search for a case by ID, refresh the section, and submit final decisions.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch2
+Step 3: Click on div SearchByCase
+Step 4: Click on link ViewMoreFilterOptions
+Step 5: Click on image Calendar
+Step 6: Click on link Today
+Step 7: Click on button Search
+Step 8: Click on span Preview
+Step 9: Search for a case by ID and refresh the section.
+	- Step 1: Click on input CaseIDSearch
+	- Step 2: Enter input value in input CaseIDSearch
+	- Step 3: Click on button Search3
+	- Step 4: Click on link CaseID6 -> Navigate to page '/prweb/sts/app/*/*/*'
+	- Step 5: Click on button RefreshSection
+Step 10: Click on button RefreshSection
+Step 11: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 12: Click on button RefreshSection -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 13: Click on input CaseIDSearch
+Step 14: Enter input value in input CaseIDSearch
+Step 15: Click on button Search
+Step 16: Click on link CaseSearchResults3
+Step 17: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 18: Take full page screenshot as checkpoint
+",Trivial,NEW
+67,Change Password and Verify Home Page,"Change user password and navigate through application settings, verifying the home page.","Step 1: Navigate to /prweb/app/*/*/!STANDARD
+Step 2: Click on input OldPassword
+Step 3: Enter input value in input OldPassword
+Step 4: Enter input value in input NewPassword
+Step 5: Enter input value in input ConfirmPassword
+Step 6: Click on button ChangePassword
+Step 7: Click on button Email
+Step 8: Click on link logSettings (AccessGroup)
+Step 9: Click on span serviceDetails (CloseTab)
+Step 10: Click on header Records
+Step 11: Click on link expandChildRows (ExpandChildRows)
+Step 12: Click on link viewInstanceList (ViewInstanceList) -> Navigate to page '/prweb/app/*/*/*'
+Step 13: Click on div CDHAdministrator -> Navigate to page '/prweb/app/*/*/!STANDARD'
+Step 14: Click on div SidebarCollapse -> Navigate to page '/prweb/app/*/*/*'
+Step 15: Click on div CDHAdministrator
+Step 16: Click on div CDHAdministrator -> Navigate to page '/prweb/app/*/*/!STANDARD'
+Step 17: Click on span serviceDetails (CloseTab2)
+Step 18: Click on div SidebarCollapse -> Navigate to page '/prweb/app/*/*/*'
+Step 19: Click on span Definition -> Navigate to page '/prweb/app/*/*/!STANDARD'
+Step 20: Click on link expandChildRows (ExpandChildRows2)
+Step 21: Click on link viewInstanceList (ViewInstanceList2) -> Navigate to page '/prweb/app/*/*/*'
+Step 22: Click on span Definition -> Navigate to page '/prweb/app/*/*/!STANDARD'
+Step 23: Click on span serviceDetails (ServiceREST)
+Step 24: Click on span serviceDetails (OfferDetails)
+Step 25: Click on link expandChildRows (ExpandChildRows3)
+Step 26: Click on link viewInstanceList (ViewInstanceList3) -> Navigate to page '/prweb/app/*/*/*'
+Step 27: Click on div CDHAdministrator
+Step 28: Click on div CDHAdministrator
+Step 29: Click on div CDHAdministrator -> Navigate to page '/prweb/app/*/*/!STANDARD'
+Step 30: Click on link CompassAdministrator
+Step 31: Click on link CDH -> Navigate to page ''
+Step 32: Take full page screenshot as checkpoint
+",Trivial,NEW
+68,Search and Submit Decisions on Multiple Cases,"Search for multiple cases by ID, navigate through actions, and submit final decisions.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on link CaseSearch
+Step 3: Click on link CaseSearch
+Step 4: Click on div RuleKey
+Step 5: Click on link ViewMoreFilters
+Step 6: Click on input CaseIDSearch2
+Step 7: Enter input value in input CaseIDSearch2
+Step 8: Click on button Search2
+Step 9: Click on link CaseID
+Step 10: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 11: Click on input CaseIDSearch2
+Step 12: Enter input value in input CaseIDSearch2
+Step 13: Click on button Search2
+Step 14: Click on link CaseID2
+Step 15: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 16: Search for a case by ID and refresh the section.
+	- Step 1: Click on input CaseIDSearch
+	- Step 2: Enter input value in input CaseIDSearch
+	- Step 3: Click on button Search3
+	- Step 4: Click on link CaseID6 -> Navigate to page '/prweb/sts/app/*/*/*'
+	- Step 5: Click on button RefreshSection
+Step 17: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 18: Take full page screenshot as checkpoint
+",Trivial,NEW
+69,Run Actions and Execute Control in Application,Execute control actions in the application and verify navigation to the home page.,"Step 1: Navigate to /prweb/app/cdh /*/!STANDARD
+Step 2: Click on i tabControl (RecordsTab)
+Step 3: Click on header tabControl (App)
+Step 4: Click on div ClassesPanel
+Step 5: Click on div ClassesPanel
+Step 6: Click on input AppExplorer
+Step 7: Click on input AppExplorer
+Step 8: Click on input AppExplorer
+Step 9: Click on input AppExplorer
+Step 10: Enter input value in input AppExplorer
+Step 11: Click on tr CIBCDataRow
+Step 12: Click on link CIBCDataRepository
+Step 13: Click on link CIBCDataRepository -> Navigate to page '/prweb/app/cdh /*/*'
+Step 14: Click on span PrepopulateFinal -> Navigate to page '/prweb/app/cdh /*/!STANDARD'
+Step 15: Click on link Clipboard
+Step 16: Click on link ViewingThread
+Step 17: Click on input SearchProperty
+Step 18: Enter input value in input SearchProperty
+Step 19: Click on span RH3Data
+Step 20: Click on link ExpandChildRows
+Step 21: Click on link ExpandChildRows2
+Step 22: Click on link ExpandChildRows3
+Step 23: Click on span CDHCustomer
+Step 24: Click on link ExpandChildRows4
+Step 25: Click on span ClientDetails
+Step 26: Click on link ExpandChildRows5
+Step 27: Click on span ClientDetails2
+Step 28: Click on header tabControl (RecordsTab)
+Step 29: Click on i tabControl (AppTab)
+Step 30: Click on input AppExplorer
+Step 31: Click on input AppExplorer
+Step 32: Enter input value in input AppExplorer
+Step 33: Click on div AppPanel
+Step 34: Click on link ExpandChildRows6
+Step 35: Click on link OfferNegotiation -> Navigate to page '/prweb/app/cdh /*/*'
+Step 36: Click on button Apply -> Navigate to page '/prweb/app/cdh /*/!STANDARD'
+Step 37: Click on link Clipboard -> Navigate to page '/prweb/app/cdh /*/*'
+Step 38: Click on button Apply -> Navigate to page '/prweb/app/cdh /*/!STANDARD'
+Step 39: Click on input SearchText2
+Step 40: Enter input value in input SearchText2
+Step 41: Click on link SearchResult
+Step 42: Click on input SearchText2
+Step 43: Click on link SearchResult -> Navigate to page '/prweb/app/cdh /*/*'
+Step 44: Click on button Apply
+Step 45: Run an action by inputting a value and executing control.
+	- Step 1: Click on link Run
+	- Step 2: Click on input pyValue
+	- Step 3: Enter input value in input pyValue
+	- Step 4: Click on button actionControl (Run)
+	- Step 5: Click on button actionControl (Clipboard)
+Step 46: Click on link expandChildRows (ExpandChildRows7)
+Step 47: Click on link expandChildRows (ExpandChildRows8)
+Step 48: Click on link expandChildRows (ExpandChildRows9)
+Step 49: Click on link expandChildRows (ExpandChildRows10)
+Step 50: Click on span addressDetails (SelectedProposition)
+Step 51: Click on input SearchProperty
+Step 52: Enter input value in input SearchProperty
+Step 53: Click on div SearchResults
+Step 54: Click on div SearchResults
+Step 55: Click on input SearchProperty2
+Step 56: Enter input value in input SearchProperty2
+Step 57: Click on link filterSelection (SelectFilters)
+Step 58: Click on link filterSelection (SelectFilters)
+Step 59: Click on link filterSelection (SelectFilters)
+Step 60: Click on div FilterSection
+Step 61: Click on input filterCriteria (FilterCriteria)
+Step 62: Click on button ApplyFilter
+Step 63: Click on link filterSelection (SelectFilters2)
+Step 64: Click on input filterCriteria (FilterCriteria2)
+Step 65: Click on button ApplyFilter
+Step 66: Click on div FlexContainer
+Step 67: Click on span SOpg
+Step 68: Click on tr displayRows (SuppressCrossSells)
+Step 69: Click on link expandChildRows (ExpandChildRows11)
+Step 70: Click on span apiLogDetails (IncomingOfferList)
+Step 71: Click on div FlexContainer
+Step 72: Click on link expandChildRows (ExpandChildRows12)
+Step 73: Click on span offerDetails (ClientDetails3)
+Step 74: Click on tr displayRows (AgeRow)
+Step 75: Click on tr displayRows (DisplaySINRow)
+Step 76: Click on link expandChildRows (ExpandChildRows13)
+Step 77: Click on span addressDetails (Address)
+Step 78: Click on span offerDetails (ClientDetails3)
+Step 79: Click on link expandChildRows (ExpandChildRows14)
+Step 80: Click on span Address2
+Step 81: Click on link expandChildRows (ExpandToShowChildRows)
+Step 82: Click on span postalAddress (PostalAddress)
+Step 83: Click on link ExpandToShowChildRows2
+Step 84: Click on link expandChildRows (ExpandToShowChildRows3)
+Step 85: Click on span postalAddress (PostalAddress2)
+Step 86: Click on link expandChildRows (ExpandToShowChildRows4)
+Step 87: Click on span PostalAddress3 -> Navigate to page '/prweb/app/cdh /*/!STANDARD'
+Step 88: Click on input SearchText2
+Step 89: Click on input SearchText2
+Step 90: Click on i ApplicationMenu2
+Step 91: Click on link CDHAdministrator
+Step 92: Click on input SearchText2
+Step 93: Click on input SearchText2
+Step 94: Enter input value in input SearchText2
+Step 95: Click on link SearchResult -> Navigate to page '/prweb/app/cdh /*/*'
+Step 96: Click on button Apply
+Step 97: Run an action by inputting a value and executing control.
+	- Step 1: Click on link Run
+	- Step 2: Click on input pyValue
+	- Step 3: Enter input value in input pyValue
+	- Step 4: Click on button actionControl (Run)
+	- Step 5: Click on button actionControl (Clipboard)
+Step 98: Click on div SidebarCollapse
+Step 99: Click on span SOpg2
+Step 100: Click on tbody PropertyValue
+Step 101: Click on div crossSellComponents (CrossSellCreditCard)
+Step 102: Click on div crossSellComponents (CrossSellCOPS)
+Step 103: Click on tr displayRows (CrossSellCreditCard)
+Step 104: Click on link expandChildRows (ExpandToShowChildRows5)
+Step 105: Click on span NBO
+Step 106: Click on link expandChildRows (ExpandToShowChildRows6)
+Step 107: Click on link expandChildRows (ExpandToShowChildRows7)
+Step 108: Click on link expandChildRows (ExpandToShowChildRows8)
+Step 109: Click on link expandChildRows (ExpandToShowChildRows9)
+Step 110: Click on link expandChildRows (ExpandToShowChildRows10)
+Step 111: Click on link expandChildRows (ExpandToShowChildRows11)
+Step 112: Click on link expandChildRows (ExpandToShowChildRows12)
+Step 113: Click on link expandChildRows (ExpandToShowChildRows13)
+Step 114: Click on link expandChildRows (ExpandToShowChildRows14)
+Step 115: Click on span offerDetails (OfferPaletteGroups)
+Step 116: Click on link expandChildRows (ExpandToShowChildRows15)
+Step 117: Click on span apiLogDetails (CDHAPILogPage)
+Step 118: Click on tr PrePopulate1Req -> Navigate to page '/prweb/app/cdh /*/!STANDARD'
+Step 119: Click on i ApplicationMenu2
+Step 120: Click on link CDHAdministrator2 -> Navigate to page ''
+Step 121: Take full page screenshot as checkpoint
+",Trivial,NEW
+74,Create and Manage Multiple Cases and Submit Decisions,"Create and manage multiple cases, refresh sections, and submit final decisions.","Step 1: Navigate to /prweb/sts/app/*/*/!STANDARD
+Step 2: Click on div UnsavedChanges
+Step 3: Click on item DynamicNavMenu
+Step 4: Click on link WorkGroup
+Step 5: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 6: Click on button RefreshSection -> Navigate to page '/prweb/sts/app/*/*/!STANDARD'
+Step 7: Click on link OpenAssignment -> Navigate to page '/prweb/sts/app/*/*/*'
+Step 8: Click on button RefreshSection
+Step 9: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 10: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 11: Click on button RefreshSection
+Step 12: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 13: Click on button RefreshSection
+Step 14: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 15: Create a new case and manage income and expenses details.
+	- Step 1: Click on link CreateNewCase
+	- Step 2: Click on input creditCardPurpose (CreditCardPurpose)
+	- Step 3: Click on button Next
+	- Step 4: Click on input creditCardPurpose (CreditCardPurpose2)
+	- Step 5: Click on button Next
+	- Step 6: Click on button RefreshSection2
+	- Step 7: Click on input CanadianResident
+	- Step 8: Click on link Edit
+	- Step 9: Click on button Save
+	- Step 10: Click on i ShowActions
+	- Step 11: Click on link incomeExpenseManagement (DeleteExpense)
+	- Step 12: Click on button Delete
+	- Step 13: Click on link AddExpense
+	- Step 14: Click on link incomeExpenseManagement (CostFreeAccommodation)
+	- Step 15: Click on i ShowActions2
+	- Step 16: Click on link incomeExpenseManagement (DeleteIncome)
+	- Step 17: Click on button OK
+	- Step 18: Click on i ShowActions2
+	- Step 19: Click on link incomeExpenseManagement (EditIncome)
+	- Step 20: Click on input CompanyName
+	- Step 21: Enter input value in input CompanyName2
+	- Step 22: Click on input Position
+	- Step 23: Enter input value in input Position2
+	- Step 24: Click on input NoOfYears
+	- Step 25: Enter input value in input NoOfYears2
+	- Step 26: Click on input NoOfMonths
+	- Step 27: Enter input value in input NoOfMonths2
+	- Step 28: Click on input YearlyIncome
+	- Step 29: Enter input value in input YearlyIncome2
+	- Step 30: Click on input PhoneNumber
+	- Step 31: Enter input value in input PhoneNumber2
+	- Step 32: Click on input AreaCode
+	- Step 33: Enter input value in input AreaCode2
+	- Step 34: Click on button Save2
+	- Step 35: Click on input SavingsInvestmentsRange
+	- Step 36: Click on button Next2
+	- Step 37: Click on button RefreshSection
+	- Step 38: Click on input CreditCardFeatureType
+	- Step 39: Click on input AdvisorTransitNumber
+	- Step 40: Enter input value in input AdvisorTransitNumber
+	- Step 41: Click on input SourceCode
+	- Step 42: Enter input value in input SourceCode
+	- Step 43: Click on input TreatmentID
+	- Step 44: Enter input value in input TreatmentID
+	- Step 45: Click on textarea Description
+	- Step 46: Enter input value in textarea Description
+	- Step 47: Click on input ApplicationDate
+	- Step 48: Enter input value in input ApplicationDate
+	- Step 49: Click on select ResponseType
+	- Step 50: Click on button Next2
+	- Step 51: Click on button RefreshSection
+	- Step 52: Click on input RemoveProductIndicator
+	- Step 53: Click on link RemoveAllProducts
+	- Step 54: Click on link AddProductsProgramsOffers
+	- Step 55: Click on link AddProductsProgramsOffers
+	- Step 56: Click on select ProductType
+	- Step 57: Click on link AddButton
+	- Step 58: Click on input RequestedCreditLimit
+	- Step 59: Enter input value in input RequestedCreditLimit2
+	- Step 60: Click on div ConfigureDividendVisa
+	- Step 61: Click on button OverlaySave
+	- Step 62: Click on button Done
+	- Step 63: Click on link SignOff3
+Step 16: Click on button RefreshSection
+Step 17: Navigate through case actions and submit final decisions and notes.
+	- Step 1: Click on button CaseActionHeader
+	- Step 2: Click on button CaseActionHeader2
+	- Step 3: Click on button RefreshSection
+	- Step 4: Click on link ShowNavigatorLinks
+	- Step 5: Click on button RefreshSection
+	- Step 6: Click on button CaseActions
+	- Step 7: Click on link FinalDecision
+	- Step 8: Click on button RefreshSection
+	- Step 9: Click on button Start
+	- Step 10: Click on div CloseWalkThru
+	- Step 11: Click on header Rationale
+	- Step 12: Click on header Capacity
+	- Step 13: Click on select CapacityDecision
+	- Step 14: Click on textarea CapacityUnderwriterNotes
+	- Step 15: Enter input value in textarea CapacityUnderwriterNotes
+	- Step 16: Click on header Creditworthiness
+	- Step 17: Click on select CreditWorthinessDecision
+	- Step 18: Click on textarea CreditWorthinessUnderwriterNotes
+	- Step 19: Enter input value in textarea CreditWorthinessUnderwriterNotes
+	- Step 20: Click on header Capital
+	- Step 21: Click on select CapitalDecision
+	- Step 22: Click on textarea CapitalUnderwriterNotes
+	- Step 23: Enter input value in textarea CapitalUnderwriterNotes
+	- Step 24: Click on header Products
+	- Step 25: Click on select DecisionActions
+	- Step 26: Click on input ApprovalDecisionReason
+	- Step 27: Click on textarea ProductLevelNotes
+	- Step 28: Enter input value in textarea ProductLevelNotes2
+	- Step 29: Click on button SubmitAndClose
+	- Step 30: Click on button SubmitAndClose2
+	- Step 31: Click on button RefreshSection
+	- Step 32: Click on link Home2
+Step 18: Take full page screenshot as checkpoint
+",Trivial,NEW
