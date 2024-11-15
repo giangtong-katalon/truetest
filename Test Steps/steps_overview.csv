@@ -1,0 +1,61 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Navigate and Verify Home Page with Rich Text Editor,Access the home page and interact with the rich text editor. Navigate through documentation topics and verify the home page.,"Step 1: Navigate to /
+Step 2: Click on div richTextEditor (DraftJsRichTextEditor)
+Step 3: Click on span headingLevels (H1)
+Step 4: Click on span headingLevels (H2)
+Step 5: Input text and navigate through documentation topics
+	- Step 1: Enter input value in div Textbox
+	- Step 2: Click on span headingLevels (H5)
+	- Step 3: Click on div ExtensibleAndCustomizable
+	- Step 4: Click on link LearnMoreAboutDraftJs -> Navigate to page 'documentation#docs/getting-started'
+	- Step 5: Click on link documentationTopics (API Basics) -> Navigate to page 'documentation#docs/*'
+	- Step 6: Click on link documentationTopics (RichStyling2)
+	- Step 7: Click on link nextDocumentationTopics (PreviousAPI Basics)
+Step 6: Click on div controlledInputs (ControlledInputs) -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+2,Explore Documentation Topics and Verify Pages,"Navigate to the home page, interact with various documentation links, and verify the content on the documentation pages.","Step 1: Navigate to /
+Step 2: Click on span headingLevels (H1)
+Step 3: Enter input value in div Textbox
+Step 4: Click on span headingLevels (H4)
+Step 5: Click on link LearnMoreAboutDraftJs -> Navigate to page 'documentation#docs/getting-started'
+Step 6: Click on link richStyling (RichStyling) -> Navigate to page 'documentation#docs/*'
+Step 7: Click on link documentationTopics (API Basics)
+Step 8: Click on link QuickStart -> Navigate to page '/'
+Step 9: Click on link LearnMoreAboutDraftJs -> Navigate to page 'documentation#docs/getting-started'
+Step 10: Click on link documentationTopics (API Basics) -> Navigate to page 'documentation#docs/*'
+Step 11: Click on link DraftJsLogo -> Navigate to page '/'
+Step 12: Click on link Docs -> Navigate to page 'documentation#docs/getting-started'
+Step 13: Click on link richStyling (RichStyling) -> Navigate to page 'documentation#docs/*'
+Step 14: Click on link AdvancedTopics
+Step 15: Click on link documentationTopics (Entities)
+Step 16: Click on link documentationTopics (v0 10APIMigration)
+Step 17: Click on link documentationTopics (Decorators)
+Step 18: Click on link documentationTopics (KeyBindings)
+Step 19: Click on link documentationTopics (ManagingFocus)
+Step 20: Click on link documentationTopics (BlockStyling)
+Step 21: Click on link documentationTopics (CustomBlockRendering)
+Step 22: Click on link documentationTopics (CustomBlockComponents)
+Step 23: Click on link documentationTopics (ComplexInlineStyles)
+Step 24: Click on link NestedLists -> Navigate to page 'documentation#docs/advanced-topics-nested-lists'
+Step 25: Click on link TextDirection -> Navigate to page 'documentation#docs/*'
+Step 26: Click on link documentationTopics (EditorStateRaceConditions)
+Step 27: Click on link DraftJsLogo
+Step 28: Input text and navigate through documentation topics
+	- Step 1: Enter input value in div Textbox
+	- Step 2: Click on span headingLevels (H5)
+	- Step 3: Click on div ExtensibleAndCustomizable
+	- Step 4: Click on link LearnMoreAboutDraftJs -> Navigate to page 'documentation#docs/getting-started'
+	- Step 5: Click on link documentationTopics (API Basics) -> Navigate to page 'documentation#docs/*'
+	- Step 6: Click on link documentationTopics (RichStyling2)
+	- Step 7: Click on link nextDocumentationTopics (PreviousAPI Basics)
+Step 29: Click on link nextDocumentationTopics (NextEntities)
+Step 30: Click on link nextDocumentationTopics (Nextv0 10APIMigration)
+Step 31: Click on link nextDocumentationTopics (NextDecorators)
+Step 32: Click on link nextDocumentationTopics (NextKeyBindings)
+Step 33: Click on link nextDocumentationTopics (NextManagingFocus)
+Step 34: Click on link nextDocumentationTopics (NextBlockStyling)
+Step 35: Click on link nextDocumentationTopics (NextCustomBlockRendering)
+Step 36: Click on link nextDocumentationTopics (NextCustomBlockComponents)
+Step 37: Take full page screenshot as checkpoint
+",Trivial,NEW
