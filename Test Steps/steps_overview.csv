@@ -1,0 +1,24 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+3,Navigate and Verify Home Overview with Test Cases and Resources,"Navigate to the home overview page, interact with various elements, and verify the home page after accessing test cases and project resources.","Step 1: Navigate to */*/home/overview with params (filter)
+Step 2: Hover over path object
+Step 3: Click on link TestCases -> Navigate to page 'project tests#*/*/*/*'
+Step 4: Click on input Search
+Step 5: Hover over span object
+Step 6: Hover over span object2
+Step 7: Click on input RecentlyUpdated
+Step 8: Hover over span object3
+Step 9: Hover over span object4
+Step 10: Click on input RecentlyUpdated
+Step 11: Hover over span object2
+Step 12: Hover over span object
+Step 13: Click on input RecentlyUpdated
+Step 14: Hover over div object
+Step 15: Click on link TestObjects -> Navigate to page 'project resources#*/*/*/*'
+Step 16: Hover over div object
+Step 17: Click on link projectResources (TestData)
+Step 18: Hover over div object
+Step 19: Click on link projectResources (TestObjects)
+Step 20: Hover over div object2
+Step 21: Click on link projectResources (Environments) -> Navigate to page ''
+Step 22: Take full page screenshot as checkpoint
+",High,NEW

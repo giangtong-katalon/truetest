@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to */*/home/overview with params (filter)",
+        "step 2: Hover over path object",
+        "step 3: Click on link TestCases -> Navigate to page 'project tests#*/*/*/*'",
+        "step 4: Click on input Search",
+        "step 5: Hover over span object",
+        "step 6: Hover over span object2",
+        "step 7: Click on input RecentlyUpdated",
+        "step 8: Hover over span object3",
+        "step 9: Hover over span object4",
+        "step 10: Click on input RecentlyUpdated",
+        "step 11: Hover over span object2",
+        "step 12: Hover over span object",
+        "step 13: Click on input RecentlyUpdated",
+        "step 14: Hover over div object",
+        "step 15: Click on link TestObjects -> Navigate to page 'project resources#*/*/*/*'",
+        "step 16: Hover over div object",
+        "step 17: Click on link projectResources (TestData)",
+        "step 18: Hover over div object",
+        "step 19: Click on link projectResources (TestObjects)",
+        "step 20: Hover over div object2",
+        "step 21: Click on link projectResources (Environments) -> Navigate to page ''",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}
