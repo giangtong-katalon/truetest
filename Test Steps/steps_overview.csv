@@ -1,24 +1,32 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-3,Navigate and Verify Home Overview with Test Cases and Resources,"Navigate to the home overview page, interact with various elements, and verify the home page after accessing test cases and project resources.","Step 1: Navigate to */*/home/overview with params (filter)
-Step 2: Hover over path object
-Step 3: Click on link TestCases -> Navigate to page 'project tests#*/*/*/*'
-Step 4: Click on input Search
-Step 5: Hover over span object
-Step 6: Hover over span object2
-Step 7: Click on input RecentlyUpdated
-Step 8: Hover over span object3
-Step 9: Hover over span object4
-Step 10: Click on input RecentlyUpdated
-Step 11: Hover over span object2
-Step 12: Hover over span object
-Step 13: Click on input RecentlyUpdated
-Step 14: Hover over div object
-Step 15: Click on link TestObjects -> Navigate to page 'project resources#*/*/*/*'
-Step 16: Hover over div object
-Step 17: Click on link projectResources (TestData)
-Step 18: Hover over div object
-Step 19: Click on link projectResources (TestObjects)
-Step 20: Hover over div object2
-Step 21: Click on link projectResources (Environments) -> Navigate to page ''
-Step 22: Take full page screenshot as checkpoint
+4,Navigate and Manage Project Resources and Admin Settings,"Navigate through the application to access project resources, test cases, and admin settings. Hover and click through various links to manage configurations and permissions.","Step 1: Navigate to */*/home/overview
+Step 2: Hover over link Assets
+Step 3: Click on link Application -> Navigate to page 'project resources#project/*/resources/*'
+Step 4: Hover over link Tests
+Step 5: Click on link TestCases -> Navigate to page 'project tests#*/*/*/*'
+Step 6: Hover over span object
+Step 7: Hover over span object2
+Step 8: Click on input RecentlyUpdated
+Step 9: Hover over span object3
+Step 10: Hover over span object4
+Step 11: Click on input RecentlyUpdated
+Step 12: Click on div FilterByType
+Step 13: Click on div Menu
+Step 14: Click on div FilterByStatus
+Step 15: Click on div Menu
+Step 16: Hover over link Assets
+Step 17: Click on link TestData -> Navigate to page 'project resources#*/*/*/*'
+Step 18: Hover over link TestCloud
+Step 19: Click on link KREAgents -> Navigate to page 'agent management#*/*'
+Step 20: Hover over link Org
+Step 21: Click on link UserManagement -> Navigate to page 'admin panel#admin/*/*'
+Step 22: Hover over link System
+Step 23: Click on link General
+Step 24: Hover over button BusinessDomains
+Step 25: Click on button Permission -> Navigate to page 'admin#admin/*/system-permission'
+Step 26: Click on button SystemConfigurations -> Navigate to page 'admin configuration#admin/*/configurations/*'
+Step 27: Click on button SystemIntegrations -> Navigate to page 'admin#admin/*/system-integration'
+Step 28: Hover over link Account
+Step 29: Click on link General -> Navigate to page ''
+Step 30: Take full page screenshot as checkpoint
 ",High,NEW
