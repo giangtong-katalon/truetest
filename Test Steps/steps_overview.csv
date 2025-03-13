@@ -1,8 +1,29 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-1,Navigate to Product Overview and Compare Current Sense Amplifiers,"Start at the home page, navigate to products, and access the product overview. Hover over comparators and select Current Sense Amplifiers to verify the product overview.","Step 1: Navigate to /
-Step 2: Click on link Products
-Step 3: Click on link Comparators -> Navigate to page 'product overview#*/*/overview.html'
-Step 4: Hover over link Comparators
-Step 5: Click on link CurrentSenseAmplifiers
-Step 6: Take full page screenshot as checkpoint
+5,Use Investment Finder for Retirement Calculator,"Navigate to the products page, use the Investment Finder, input user details, and interact with sliders. Verify the completion of the process.","Step 1: Navigate to */products/*/* with params (series)
+Step 2: Click on link investmentFinder -> Navigate to page 'retirementcalculator en#*/retirementcalculator'
+Step 3: Click on input userAge
+Step 4: Enter input value in input userAge
+Step 5: Click on input userAnnualIncome
+Step 6: Enter input value in input userAnnualIncome
+Step 7: Click on input userRetirementSavings
+Step 8: Enter input value in input userRetirementSavings
+Step 9: Press key Tab on input userRetirementSavings
+Step 10: Enter input value in input userMonthlySavings
+Step 11: Click on link next
+Step 12: Click on link next
+Step 13: Adjust div investmentStyleSlider by input value
+Step 14: Adjust div investmentStyleSlider by input value -> Navigate to page ''
+Step 15: Take full page screenshot as checkpoint
 ",High,NEW
+6,Navigate to Products and Filter Battery Management ICS,"Access the home page, navigate to products, and filter for Battery Management ICS. Verify navigation and page elements.","Step 1: Navigate to /
+Step 2: Click on link products
+Step 3: Click on link products
+Step 4: Click on link batteryManagementIcs
+Step 5: Click on link batteryAuthenticationIcs -> Navigate to page 'overview#*/*/overview.html'
+Step 6: Click on link viewAllProducts -> Navigate to page 'product listing#*/*/products.html'
+Step 7: Click on button filterAll
+Step 8: Click on div groupTitleBar
+Step 9: Adjust div noUiConnects by input value
+Step 10: Click on input rowToggle -> Navigate to page ''
+Step 11: Take full page screenshot as checkpoint
+",Trivial,NEW
