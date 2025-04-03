@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to */products/*/* with params (series)",
+        "step 2: Click on link investmentFinder -> Navigate to page 'retirementcalculator en#*/retirementcalculator'",
+        "step 3: Click on input userAge",
+        "step 4: Enter input value in input userAge",
+        "step 5: Click on input userAnnualIncome",
+        "step 6: Enter input value in input userAnnualIncome",
+        "step 7: Click on input userRetirementSavings",
+        "step 8: Enter input value in input userRetirementSavings",
+        "step 9: Press key Tab on input userRetirementSavings",
+        "step 10: Enter input value in input userMonthlySavings",
+        "step 11: Click on link next",
+        "step 12: Click on link next",
+        "step 13: Adjust div investmentStyleSlider by input value",
+        "step 14: Adjust div investmentStyleSlider by input value -> Navigate to page ''",
+        "step 15: Take full page screenshot as checkpoint"
+    ]
+}
