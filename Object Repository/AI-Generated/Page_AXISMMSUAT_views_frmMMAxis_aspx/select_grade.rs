@@ -34,7 +34,7 @@
         <name>id</name>
         <type>Main</type>
         <value>ctl00_ContentPlaceHolder1_ddGrade</value>
-        <webElementGuid>15826667-7dfa-459c-8929-c5031670997e</webElementGuid>
+        <webElementGuid>be1b9825-041c-4853-80e5-441abb40beb9</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -42,6 +42,6 @@
         <name>name</name>
         <type>Main</type>
         <value>ctl00$ContentPlaceHolder1$ddGrade</value>
-        <webElementGuid>15826667-7dfa-459c-8929-c5031670997e</webElementGuid>
+        <webElementGuid>be1b9825-041c-4853-80e5-441abb40beb9</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

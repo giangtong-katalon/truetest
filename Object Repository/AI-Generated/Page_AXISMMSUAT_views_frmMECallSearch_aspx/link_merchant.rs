@@ -24,6 +24,6 @@
         <name>id</name>
         <type>Main</type>
         <value>ctl00_merchant</value>
-        <webElementGuid>954981ae-ccaf-420f-af4d-deee91566025</webElementGuid>
+        <webElementGuid>be1b9825-041c-4853-80e5-441abb40beb9</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
