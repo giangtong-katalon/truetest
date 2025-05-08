@@ -1,0 +1,17 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Verify Access Denied Handling in Axis MMS Application,"Navigate to the login page, log in, and test access denied scenarios. Hover over various links and verify the page behavior for access restrictions.","Step 1: Navigate to /AXISMMSUAT/login.aspx with params (ReturnUrl)
+Step 2: Login -> Navigate to page '/AXISMMSUAT/views/frmMECallSearch.aspx'
+Step 3: Click on link accessDenied
+Step 4: Hover over link calls
+Step 5: Click on link accessDenied2
+Step 6: Select option with input value from select displayOptions
+Step 7: Hover over link merchant
+Step 8: Hover over link merchant2 -> Navigate to page '/AXISMMSUAT/Views/*'
+Step 9: Hover over link calls
+Step 10: Click on link accessDenied
+Step 11: Hover over link merchant
+Step 12: Hover over link calls
+Step 13: Click on link accessDenied
+Step 14: Hover over link merchant
+Step 15: Take full page screenshot as checkpoint
+",High,NEW

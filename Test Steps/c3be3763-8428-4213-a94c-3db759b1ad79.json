@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to /AXISMMSUAT/login.aspx with params (ReturnUrl)",
+        "step 2: Login -> Navigate to page '/AXISMMSUAT/views/frmMECallSearch.aspx'",
+        "step 3: Click on link accessDenied",
+        "step 4: Hover over link calls",
+        "step 5: Click on link accessDenied2",
+        "step 6: Select option with input value from select displayOptions",
+        "step 7: Hover over link merchant",
+        "step 8: Hover over link merchant2 -> Navigate to page '/AXISMMSUAT/Views/*'",
+        "step 9: Hover over link calls",
+        "step 10: Click on link accessDenied",
+        "step 11: Hover over link merchant",
+        "step 12: Hover over link calls",
+        "step 13: Click on link accessDenied",
+        "step 14: Hover over link merchant",
+        "step 15: Take full page screenshot as checkpoint"
+    ]
+}
