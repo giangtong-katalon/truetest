@@ -1,0 +1,28 @@
+{
+    "steps": [
+        "step 1: Navigate to /AXISMMSUAT/login.aspx with params (ReturnUrl)",
+        "step 2: Login -> Navigate to page '/AXISMMSUAT/views/frmMECallSearch.aspx'",
+        "step 3: Hover over link merchant2 -> Navigate to page '/AXISMMSUAT/views/frmMMAxis.aspx'",
+        "step 4: Select option with input value from select grade",
+        "step 5: Hover over link merchant -> Navigate to page '/AXISMMSUAT/Views/*'",
+        "step 6: Select option with input value from select display",
+        "step 7: Hover over link calls -> Navigate to page '/AXISMMSUAT/Views/frmServiceRequest.aspx'",
+        "step 8: Select option with input value from select center",
+        "step 9: Hover over link activity",
+        "step 10: Hover over link activity2 -> Navigate to page '/AXISMMSUAT/Views/ExceptionHandler.aspx'",
+        "step 11: Hover over link merchant -> Navigate to page '/AXISMMSUAT/Views/*'",
+        "step 12: Hover over link merchant -> Navigate to page '/AXISMMSUAT/views/frmMMAxis.aspx'",
+        "step 13: Select option with input value from select edc",
+        "step 14: Hover over link others",
+        "step 15: Hover over link mdrChecker",
+        "step 16: Hover over link others2 -> Navigate to page '/AXISMMSUAT/Views/frmVendorSimNumber.aspx'",
+        "step 17: Hover over link activity",
+        "step 18: Click on link preInstSurvey",
+        "step 19: Click on link siteReady -> Navigate to page '/AXISMMSUAT/Views/frmServiceRequestSearchAxis Maker.aspx'",
+        "step 20: Select option with input value from select fspCenter",
+        "step 21: Select option with input value from select display",
+        "step 22: Hover over link merchant -> Navigate to page '/AXISMMSUAT/Views/frmReportsMerchants.aspx'",
+        "step 23: Hover over link activity -> Navigate to page ''",
+        "step 24: Take full page screenshot as checkpoint"
+    ]
+}

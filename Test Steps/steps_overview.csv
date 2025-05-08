@@ -1,4 +1,33 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
+3,Explore Merchant and Service Request Functionality in the Application,"Navigate through various merchant and service request options, selecting grades, displays, and centers while verifying the functionality of the application.","Step 1: Navigate to /AXISMMSUAT/login.aspx with params (ReturnUrl)
+Step 2: Login -> Navigate to page '/AXISMMSUAT/views/frmMECallSearch.aspx'
+Step 3: Hover over link merchant2 -> Navigate to page '/AXISMMSUAT/views/frmMMAxis.aspx'
+Step 4: Select option with input value from select grade
+Step 5: Hover over link merchant -> Navigate to page '/AXISMMSUAT/Views/*'
+Step 6: Select option with input value from select display
+Step 7: Hover over link calls -> Navigate to page '/AXISMMSUAT/Views/frmServiceRequest.aspx'
+Step 8: Select option with input value from select center
+Step 9: Hover over link activity
+Step 10: Hover over link activity2 -> Navigate to page '/AXISMMSUAT/Views/ExceptionHandler.aspx'
+Step 11: Hover over link merchant -> Navigate to page '/AXISMMSUAT/Views/*'
+Step 12: Hover over link merchant -> Navigate to page '/AXISMMSUAT/views/frmMMAxis.aspx'
+Step 13: Select option with input value from select edc
+Step 14: Hover over link others
+Step 15: Hover over link mdrChecker
+Step 16: Hover over link others2 -> Navigate to page '/AXISMMSUAT/Views/frmVendorSimNumber.aspx'
+Step 17: Hover over link activity
+Step 18: Click on link preInstSurvey
+Step 19: Click on link siteReady -> Navigate to page '/AXISMMSUAT/Views/frmServiceRequestSearchAxis Maker.aspx'
+Step 20: Select option with input value from select fspCenter
+Step 21: Select option with input value from select display
+Step 22: Hover over link merchant -> Navigate to page '/AXISMMSUAT/Views/frmReportsMerchants.aspx'
+Step 23: Hover over link activity -> Navigate to page ''
+Step 24: Take full page screenshot as checkpoint
+",High,NEW
+4,User Login and Home Page Verification,Navigate to the home page and perform user login. Verify that the home page loads successfully after login.,"Step 1: Navigate to /
+Step 2: Click on input login
+Step 3: Take full page screenshot as checkpoint
+",High,NEW
 1,Verify Access Denied Handling in Axis MMS Application,"Navigate to the login page, log in, and test access denied scenarios. Hover over various links and verify the page behavior for access restrictions.","Step 1: Navigate to /AXISMMSUAT/login.aspx with params (ReturnUrl)
 Step 2: Login -> Navigate to page '/AXISMMSUAT/views/frmMECallSearch.aspx'
 Step 3: Click on link accessDenied
@@ -14,7 +43,7 @@ Step 12: Hover over link calls
 Step 13: Click on link accessDenied
 Step 14: Hover over link merchant
 Step 15: Take full page screenshot as checkpoint
-",High,STABLE
+",High,RETAINED
 2,Navigate and Verify Access Permissions in Axis MMS Application,"Login to the Axis MMS application, navigate through various links, and verify access permissions and dashboard elements. Ensure proper functionality of access denied links and report views.","Step 1: Navigate to /AXISMMSUAT/login.aspx with params (ReturnUrl)
 Step 2: Login -> Navigate to page '/AXISMMSUAT/views/frmMECallSearch.aspx'
 Step 3: Click on link accessDenied
@@ -49,4 +78,4 @@ Step 31: Hover over link merchant
 Step 32: Click on link dashboard
 Step 33: Hover over link asset -> Navigate to page '/AXISMMSUAT/Views/frmReportsAsset.aspx'
 Step 34: Take full page screenshot as checkpoint
-",Trivial,NEW
+",Trivial,RETAINED
