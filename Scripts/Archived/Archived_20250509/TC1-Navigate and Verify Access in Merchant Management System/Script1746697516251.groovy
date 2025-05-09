@@ -26,7 +26,7 @@ TrueTestScripts.login()
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_merchant'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_merchant'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 3-Hover over link merchant.png')
 
@@ -34,7 +34,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 3-Hover over link merchant.png'
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_dashboard'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_dashboard'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 4-Hover over link dashboard.png')
 
@@ -42,7 +42,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 4-Hover over link dashboard.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_merchant'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_merchant'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 5-Hover over link merchant.png')
 
@@ -50,7 +50,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 5-Hover over link merchant.png'
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_merchant'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_merchant'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Hover over link merchant.png')
 
@@ -58,7 +58,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 6-Hover over link merchant.png'
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_merchant'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMECallSearch_aspx/link_merchant'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 7-Hover over link merchant2 - Navigate to page AXISMMSUATviewsfrmMMAxisaspx.png')
 
@@ -66,7 +66,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 7-Hover over link merchant2 - N
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-TrueTestScripts.selectOptionByValue(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/select_grade'), select_grade)
+TrueTestScripts.selectOptionByValue(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/select_grade'), select_grade)
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 8-Select option with input value from select grade.png')
 
@@ -74,7 +74,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 8-Select option with input valu
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/input_supermid'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/input_supermid'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 9-Click on input supermid.png')
 
@@ -82,7 +82,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 9-Click on input supermid.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/input_supermid'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/input_supermid'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 10-Click on input supermid.png')
 
@@ -90,7 +90,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 10-Click on input supermid.png'
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_asset'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_asset'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 11-Hover over link asset - Navigate to page AXISMMSUATReportsfrmMerchantAssetSummaryReportaspx.png')
 
@@ -98,7 +98,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 11-Hover over link asset - Navi
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Reports/frmMerchantAssetSummaryReport.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Reports_frmMerchantAssetSummaryReport_aspx/link_activity'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Reports_frmMerchantAssetSummaryReport_aspx/link_activity'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 12-Hover over link activity.png')
 
@@ -106,7 +106,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 12-Hover over link activity.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Reports/frmMerchantAssetSummaryReport.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_Reports_frmMerchantAssetSummaryReport_aspx/link_host'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Reports_frmMerchantAssetSummaryReport_aspx/link_host'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 13-Click on link host.png')
 
@@ -114,7 +114,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 13-Click on link host.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Reports/frmMerchantAssetSummaryReport.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_Reports_frmMerchantAssetSummaryReport_aspx/link_siteReady'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Reports_frmMerchantAssetSummaryReport_aspx/link_siteReady'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 14-Click on link siteReady - Navigate to page AXISMMSUATViewsfrmMECallSearchaspx.png')
 
@@ -122,7 +122,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 14-Click on link siteReady - Na
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.setText(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/input_serialno'), input_serialno)
+WebUI.setText(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/input_serialno'), input_serialno)
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 15-Enter input value in input serialno.png')
 
@@ -130,7 +130,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 15-Enter input value in input s
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_asset'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_asset'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 16-Hover over link asset.png')
 
@@ -138,7 +138,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 16-Hover over link asset.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_assetView'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_assetView'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 17-Hover over link assetView.png')
 
@@ -146,7 +146,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 17-Hover over link assetView.pn
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_asset'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_asset'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 18-Hover over link asset.png')
 
@@ -154,7 +154,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 18-Hover over link asset.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_assetView2'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_assetView2'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 19-Click on link assetView2.png')
 
@@ -162,7 +162,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 19-Click on link assetView2.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmMECallSearch.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_assetUpdate'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmMECallSearch_aspx/link_assetUpdate'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 20-Click on link assetUpdate - Navigate to page AXISMMSUATViewsfrmReportsAssetaspx.png')
 
@@ -170,7 +170,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 20-Click on link assetUpdate - 
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_merchant'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_merchant'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 21-Hover over link merchant - Navigate to page AXISMMSUATViews.png')
 
@@ -178,7 +178,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 21-Hover over link merchant - N
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-TrueTestScripts.selectOptionByValue(findTestObject('AI-Generated/Page_AXISMMSUAT_Views/select_display'), select_display)
+TrueTestScripts.selectOptionByValue(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views/select_display'), select_display)
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 22-Select option with input value from select display.png')
 
@@ -186,7 +186,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 22-Select option with input val
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views/link_merchant'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views/link_merchant'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 23-Hover over link merchant.png')
 
@@ -194,7 +194,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 23-Hover over link merchant.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views/link_merchant'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views/link_merchant'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 24-Hover over link merchant.png')
 
@@ -202,7 +202,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 24-Hover over link merchant.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/.*?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views/link_merchant'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views/link_merchant'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 25-Hover over link merchant2 - Navigate to page AXISMMSUATviewsfrmMMAxisaspx.png')
 
@@ -210,7 +210,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 25-Hover over link merchant2 - 
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_calls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_calls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 26-Hover over link calls.png')
 
@@ -218,7 +218,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 26-Hover over link calls.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_stationaryCalls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_stationaryCalls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 27-Hover over link stationaryCalls.png')
 
@@ -226,7 +226,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 27-Hover over link stationaryCa
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_calls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_calls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 28-Hover over link calls.png')
 
@@ -234,7 +234,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 28-Hover over link calls.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_stationaryCalls2'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_stationaryCalls2'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 29-Click on link stationaryCalls2.png')
 
@@ -242,7 +242,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 29-Click on link stationaryCall
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_activity'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_activity'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 30-Hover over link activity.png')
 
@@ -250,7 +250,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 30-Hover over link activity.png
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_accessDeniedHost'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_accessDeniedHost'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 31-Click on link accessDeniedHost.png')
 
@@ -258,7 +258,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 31-Click on link accessDeniedHo
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_asset'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_asset'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 32-Hover over link asset2.png')
 
@@ -266,7 +266,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 32-Hover over link asset2.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_asset'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_asset'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 33-Hover over link asset2.png')
 
@@ -274,7 +274,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 33-Hover over link asset2.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/views/frmMMAxis.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_accessDeniedAssetUpdate'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_views_frmMMAxis_aspx/link_accessDeniedAssetUpdate'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 34-Click on link accessDeniedAssetUpdate - Navigate to page AXISMMSUATViewsfrmReportsAssetaspx.png')
 
@@ -282,7 +282,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 34-Click on link accessDeniedAs
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 35-Hover over link calls.png')
 
@@ -290,7 +290,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 35-Hover over link calls.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedStationaryCalls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedStationaryCalls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 36-Hover over link accessDeniedStationaryCalls.png')
 
@@ -298,7 +298,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 36-Hover over link accessDenied
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 37-Hover over link calls.png')
 
@@ -306,7 +306,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 37-Hover over link calls.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 38-Hover over link accessDeniedSupportCalls.png')
 
@@ -314,7 +314,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 38-Hover over link accessDenied
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 39-Hover over link calls.png')
 
@@ -322,7 +322,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 39-Hover over link calls.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 40-Hover over link accessDeniedSupportCalls.png')
 
@@ -330,7 +330,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 40-Hover over link accessDenied
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 41-Hover over link calls.png')
 
@@ -338,7 +338,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 41-Hover over link calls.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 42-Hover over link accessDeniedSupportCalls.png')
 
@@ -346,7 +346,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 42-Hover over link accessDenied
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 43-Hover over link calls.png')
 
@@ -354,7 +354,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 43-Hover over link calls.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 44-Hover over link accessDeniedSupportCalls.png')
 
@@ -362,7 +362,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 44-Hover over link accessDenied
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.mouseOver(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
+WebUI.mouseOver(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_calls'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 45-Hover over link calls.png')
 
@@ -370,7 +370,7 @@ WebUI.takeScreenshot(reportLocation + '/TC1/Step 45-Hover over link calls.png')
 
 // WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/AXISMMSUAT/Views/frmReportsAsset.aspx?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls2'))
+WebUI.enhancedClick(findTestObject('Archived/Archived_20250509/Page_AXISMMSUAT_Views_frmReportsAsset_aspx/link_accessDeniedSupportCalls2'))
 
 WebUI.takeScreenshot(reportLocation + '/TC1/Step 46-Click on link accessDeniedSupportCalls2 - Navigate to page .png')
 
