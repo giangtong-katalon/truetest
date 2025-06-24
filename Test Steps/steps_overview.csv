@@ -1,0 +1,9 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+3,Navigate and Interact with Iframes and Home Page,"Start at the home page, hover over the About link, navigate to the Iframes page, interact with iframe elements, and return to the home page to verify navigation.","Step 1: Navigate to /
+Step 2: Hover over link about
+Step 3: Click on link iframes -> Navigate to page '/iframes'
+Step 4: Hover over button iframeSameDomain
+Step 5: Click on link object -> Navigate to page '/iframes/cellphone-demo'
+Step 6: Click on link vinothQaDemo -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,NEW

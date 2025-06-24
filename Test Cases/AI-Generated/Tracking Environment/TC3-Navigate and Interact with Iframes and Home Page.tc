@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>9b898d0a-ad04-46db-8559-9a29b030ded7</id>
+        </flow>
+    </customField>
+    <description>Start at the home page, hover over the About link, navigate to the Iframes page, interact with iframe elements, and return to the home page to verify navigation.</description>
+    <name>TC3-Navigate and Interact with Iframes and Home Page</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>c3af6c0b-2eb5-4ff4-96fa-1f91e33043ab</testCaseGuid>
+</TestCaseEntity>

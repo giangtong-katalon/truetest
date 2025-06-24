@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Hover over link about",
+        "step 3: Click on link iframes -> Navigate to page '/iframes'",
+        "step 4: Hover over button iframeSameDomain",
+        "step 5: Click on link object -> Navigate to page '/iframes/cellphone-demo'",
+        "step 6: Click on link vinothQaDemo -> Navigate to page ''",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}
