@@ -1,0 +1,27 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on link crossReferenceSearch -> Navigate to page '/cross-reference-search'",
+        "step 3: Click on textarea enterParts",
+        "step 4: Enter input value in textarea enterParts",
+        "step 5: Click on button search",
+        "step 6: Click on input toggleRowSelection",
+        "step 7: Click on button filterOptions (parametricFilterAll)",
+        "step 8: Click on span groupTitle",
+        "step 9: Click on span groupIcon",
+        "step 10: Click on div filteringOperator",
+        "step 11: Click on div selectFieldEquals",
+        "step 12: Click on div typeOfMatch",
+        "step 13: Click on button filterOptions (parametricFilterHide)",
+        "step 14: Click on button clearAll",
+        "step 15: Click on button filterOptions (columns)",
+        "step 16: Click on input visibilityToggle (toggleVisibility)",
+        "step 17: Click on input visibilityToggle (additionalMatches)",
+        "step 18: Click on input visibilityToggle (toggleVisibility2)",
+        "step 19: Click on button filterOptions (columnsHide)",
+        "step 20: Click on input text",
+        "step 21: Enter input value in input text2",
+        "step 22: Click on div inventoryDetails -> Navigate to page ''",
+        "step 23: Take full page screenshot as checkpoint"
+    ]
+}

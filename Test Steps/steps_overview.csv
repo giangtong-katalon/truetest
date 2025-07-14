@@ -1,0 +1,36 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+2,Logout from Application and Verify Home Page,"Navigate to the home page, access the login/register section, log out, and verify that the home page is displayed correctly.","Step 1: Navigate to /
+Step 2: Click on link loginRegister
+Step 3: Click on button dropdown
+Step 4: Click on link logout -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",High,NEW
+3,Login to Application and Verify Landing Page,"Navigate to the application, log in, and verify that the landing page is displayed correctly after login.","Step 1: Navigate to /as/* with params (client id, nonce, redirect uri, response mode, response type, scope, state)
+Step 2: Login
+Step 3: Click on button logIn -> Navigate to page '/idp/startSLO.ping'
+Step 4: Take full page screenshot as checkpoint
+",High,NEW
+1,Perform Cross Reference Search and Apply Filters,"Navigate to the home page, perform a cross-reference search, apply various filters, and verify the results on the home page.","Step 1: Navigate to /
+Step 2: Click on link crossReferenceSearch -> Navigate to page '/cross-reference-search'
+Step 3: Click on textarea enterParts
+Step 4: Enter input value in textarea enterParts
+Step 5: Click on button search
+Step 6: Click on input toggleRowSelection
+Step 7: Click on button filterOptions (parametricFilterAll)
+Step 8: Click on span groupTitle
+Step 9: Click on span groupIcon
+Step 10: Click on div filteringOperator
+Step 11: Click on div selectFieldEquals
+Step 12: Click on div typeOfMatch
+Step 13: Click on button filterOptions (parametricFilterHide)
+Step 14: Click on button clearAll
+Step 15: Click on button filterOptions (columns)
+Step 16: Click on input visibilityToggle (toggleVisibility)
+Step 17: Click on input visibilityToggle (additionalMatches)
+Step 18: Click on input visibilityToggle (toggleVisibility2)
+Step 19: Click on button filterOptions (columnsHide)
+Step 20: Click on input text
+Step 21: Enter input value in input text2
+Step 22: Click on div inventoryDetails -> Navigate to page ''
+Step 23: Take full page screenshot as checkpoint
+",Trivial,NEW

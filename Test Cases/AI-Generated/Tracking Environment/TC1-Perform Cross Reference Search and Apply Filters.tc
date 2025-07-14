@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>07d8335e-88a3-48f1-8902-ea1e8ea498e5</id>
+        </flow>
+    </customField>
+    <description>Navigate to the home page, perform a cross-reference search, apply various filters, and verify the results on the home page.</description>
+    <name>TC1-Perform Cross Reference Search and Apply Filters</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>4a566275-75df-417c-9b0b-b5df12a42de3</testCaseGuid>
+    <variable>
+        <defaultValue>'parametric-filterAll filters'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>f154f054-8f88-41f3-a341-4c8c1ff54634</id>
+        <masked>false</masked>
+        <name>button_filterOptions_internalHasText</name>
+    </variable>
+    <variable>
+        <defaultValue>'parametric-filterHide filters'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>302e22b6-71cf-4cfb-91f2-bed6f51212d9</id>
+        <masked>false</masked>
+        <name>button_filterOptions_internalHasText_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'columnsColumns'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>5a4a1fcc-c1ea-423d-be9b-b524ba7f1983</id>
+        <masked>false</masked>
+        <name>button_filterOptions_internalHasText_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'columnsHide columns'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>cd916a3e-12ce-4184-a6eb-9b14bab67c04</id>
+        <masked>false</masked>
+        <name>button_filterOptions_internalHasText_3</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>97642c1e-3b76-4010-92b3-cb7290512840</id>
+        <masked>false</masked>
+        <name>input_text2</name>
+    </variable>
+    <variable>
+        <defaultValue>'ag-254-input'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>71ec0bc3-8f9c-4b17-81ae-af890459d687</id>
+        <masked>false</masked>
+        <name>input_visibilityToggle_id</name>
+    </variable>
+    <variable>
+        <defaultValue>'ag-276-input'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>63f217d1-d037-4fb7-8dce-44021456fef4</id>
+        <masked>false</masked>
+        <name>input_visibilityToggle_id_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'ag-278-input'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>ea236fbe-15dc-45d1-9d75-a09e5e40e27a</id>
+        <masked>false</masked>
+        <name>input_visibilityToggle_id_2</name>
+    </variable>
+    <variable>
+        <defaultValue>'Type of match Column'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>7aeca2b8-300a-40c5-87b4-96c46241257b</id>
+        <masked>false</masked>
+        <name>input_visibilityToggle_internalLabel</name>
+    </variable>
+    <variable>
+        <defaultValue>'Additional matches Column'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>4f7f5a6f-4431-4e6a-a4b6-a0f9eb12d926</id>
+        <masked>false</masked>
+        <name>input_visibilityToggle_internalLabel_1</name>
+    </variable>
+    <variable>
+        <defaultValue>'Compare parameters Column'</defaultValue>
+        <description>Dynamic locator variable</description>
+        <id>d2da9843-a245-4e14-a6dd-67f0c87495e4</id>
+        <masked>false</masked>
+        <name>input_visibilityToggle_internalLabel_2</name>
+    </variable>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Input data variable</description>
+        <id>43bf9323-ed19-46db-9de5-ac3e41b326be</id>
+        <masked>false</masked>
+        <name>textarea_enterParts</name>
+    </variable>
+</TestCaseEntity>
