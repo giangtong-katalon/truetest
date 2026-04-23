@@ -1,0 +1,21 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Explore Investment Options and Educational Resources,"Navigate through the investment sections, explore mutual funds and ETFs, search for educational content, and utilize tools like the investment finder.","Step 1: Navigate to https://www.fidelity.ca/en
+Step 2: Hover over button investmentsDropdown
+Step 3: Click on link mutualFunds -> Navigate to page '/en/investments/mutual-funds'
+Step 4: Hover over button investmentsMenu
+Step 5: Click on link etfs -> Navigate to page '/en/investments/etfs'
+Step 6: Hover over button investorEducationMenu
+Step 7: Click on link investingForBeginners -> Navigate to page '/en/investor-education/investing-beginners'
+Step 8: Click on textarea searchQuery
+Step 9: Enter input value in textarea searchQuery2
+Step 10: Click on div megamenuHeader
+Step 11: Click on button clearSearch
+Step 12: Click on link whatIsAstock -> Navigate to page '/en/investor-education/what-is-a-stock'
+Step 13: Hover over button toolsAndCalculatorsMenu
+Step 14: Click on link investmentFinder -> Navigate to page '/en/products/investmentfinder'
+Step 15: Click on input fundSearch
+Step 16: Enter input value in input fundSearch
+Step 17: Click on item fidelityAbsoluteIncomeFund
+Step 18: Click on div searchWrapper -> Navigate to page ''
+Step 19: Take full page screenshot as checkpoint
+",High,NEW

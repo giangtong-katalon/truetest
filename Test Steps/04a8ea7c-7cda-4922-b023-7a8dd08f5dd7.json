@@ -1,0 +1,172 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "859dea24-0b12-4bac-bad2-05a29e19a1ec",
+      "name": "Navigate to https://www.fidelity.ca/en",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "98de75a3-9d6a-4dbe-be52-2f1d8bbaf69a",
+      "name": "Hover over button investmentsDropdown",
+      "action_id": "03c34801-f111-4c6a-b1fa-22d93b9db63b",
+      "timestamp": 1776938917073,
+      "target_name": "button_investmentsDropdown",
+      "target_test_object_id": "c1c73d4e-7fd4-4586-b81e-3e57e453710a",
+      "sub_steps": []
+    },
+    {
+      "id": "6be83f0d-6cd2-483b-a859-c498f693d639",
+      "name": "Click on link mutualFunds -> Navigate to page '/en/investments/mutual-funds'",
+      "action_id": "ff020eee-cc75-44d5-ba87-4f0d99c87002",
+      "timestamp": 1776938918176,
+      "target_name": "link_mutualFunds",
+      "target_test_object_id": "3342b02b-c807-490f-b6ac-de484c8dd86e",
+      "sub_steps": []
+    },
+    {
+      "id": "3e769baf-0b1b-4b44-88d0-bf108aa1b58d",
+      "name": "Hover over button investmentsMenu",
+      "action_id": "fc394444-280a-451c-bc61-b6740b1c5fe5",
+      "timestamp": 1776938924542,
+      "target_name": "button_investmentsMenu",
+      "target_test_object_id": "99bc2bbe-25bc-4951-aa28-3c0c52375039",
+      "sub_steps": []
+    },
+    {
+      "id": "e22d174c-90ad-456c-8c1f-09fc56c0f748",
+      "name": "Click on link etfs -> Navigate to page '/en/investments/etfs'",
+      "action_id": "66b551c2-4619-4947-9cb5-cc8778fc6cdd",
+      "timestamp": 1776938926499,
+      "target_name": "link_etfs",
+      "target_test_object_id": "33402403-8118-45e7-b5eb-690a7dc60fc3",
+      "sub_steps": []
+    },
+    {
+      "id": "f1ef98a2-1fdb-41cb-b4bd-a02925bc1020",
+      "name": "Hover over button investorEducationMenu",
+      "action_id": "e8d26d3a-290f-48ac-8ede-f61311f05255",
+      "timestamp": 1776938931599,
+      "target_name": "button_investorEducationMenu",
+      "target_test_object_id": "cc0d962f-fdcd-43ed-a3f1-901b1eeab99c",
+      "sub_steps": []
+    },
+    {
+      "id": "972e9a05-a925-45eb-b4bb-197a3347842f",
+      "name": "Click on link investingForBeginners -> Navigate to page '/en/investor-education/investing-beginners'",
+      "action_id": "b0088d98-ceb0-4fdc-b078-5ea14eb33ca0",
+      "timestamp": 1776938933588,
+      "target_name": "link_investingForBeginners",
+      "target_test_object_id": "e36f902f-ec3f-49b1-b928-aa5e4d2852d6",
+      "sub_steps": []
+    },
+    {
+      "id": "21fb235a-8d54-463b-a3b0-b782dc5873c7",
+      "name": "Click on textarea searchQuery",
+      "action_id": "784bd572-7adb-41a6-aff1-6fe40278d606",
+      "timestamp": 1776938938606,
+      "target_name": "textarea_searchQuery",
+      "target_test_object_id": "a03f2141-7b37-40e3-ade1-dab03253da4b",
+      "sub_steps": []
+    },
+    {
+      "id": "73f2863a-84f3-4355-b94b-889533d946d4",
+      "name": "Enter input value in textarea searchQuery2",
+      "action_id": "ee5707c5-d325-4584-ad13-8cedd49d56f0",
+      "timestamp": 1776938939973,
+      "target_name": "textarea_searchQuery2",
+      "target_test_object_id": "b6d06d9c-b06a-400b-969d-224833278b29",
+      "sub_steps": []
+    },
+    {
+      "id": "6a4a8c1c-f866-4637-be1b-4cbecfd9c913",
+      "name": "Click on div megamenuHeader",
+      "action_id": "018c32ef-5ad2-48ac-8d13-e29f29b9c781",
+      "timestamp": 1776938943278,
+      "target_name": "div_megamenuHeader",
+      "target_test_object_id": "8fab6634-37e9-431f-9d8a-f4afa433013c",
+      "sub_steps": []
+    },
+    {
+      "id": "22bb4168-612b-4165-826c-4b7d73d71e07",
+      "name": "Click on button clearSearch",
+      "action_id": "c69f24a1-68e2-472b-999a-711a4b498d97",
+      "timestamp": 1776938947144,
+      "target_name": "button_clearSearch",
+      "target_test_object_id": "a33ff1ba-da8d-4959-9f60-6f7d0f7683d1",
+      "sub_steps": []
+    },
+    {
+      "id": "4930076e-824c-48e6-b851-f7197b69d3aa",
+      "name": "Click on link whatIsAstock -> Navigate to page '/en/investor-education/what-is-a-stock'",
+      "action_id": "c3aeac22-5a42-4e36-9218-39951f8cf4d8",
+      "timestamp": 1776938951691,
+      "target_name": "link_whatIsAstock",
+      "target_test_object_id": "0edf64eb-29bd-4b2a-b732-82bd41df96f1",
+      "sub_steps": []
+    },
+    {
+      "id": "4eb664f7-2249-45ab-ab7c-4195884e6a03",
+      "name": "Hover over button toolsAndCalculatorsMenu",
+      "action_id": "90e5bd23-a8d5-412e-92f2-ed36d22bb784",
+      "timestamp": 1776938972854,
+      "target_name": "button_toolsAndCalculatorsMenu",
+      "target_test_object_id": "b419278e-9c29-455f-a0ca-0b4187cfb5ce",
+      "sub_steps": []
+    },
+    {
+      "id": "6946186e-a094-43c2-a58a-e72b701000fb",
+      "name": "Click on link investmentFinder -> Navigate to page '/en/products/investmentfinder'",
+      "action_id": "70c6b179-2b38-4b18-bcff-07e929700327",
+      "timestamp": 1776938973615,
+      "target_name": "link_investmentFinder",
+      "target_test_object_id": "3e7951f2-3150-420b-929a-8dbe75a8d62c",
+      "sub_steps": []
+    },
+    {
+      "id": "c70d1020-1acb-4bd4-aab9-90162e42d70f",
+      "name": "Click on input fundSearch",
+      "action_id": "2b922278-23c2-4cb6-a3ba-5b8e4a00d182",
+      "timestamp": 1776938982219,
+      "target_name": "input_fundSearch",
+      "target_test_object_id": "d4944cdf-f4be-4b8b-9f84-93381565df58",
+      "sub_steps": []
+    },
+    {
+      "id": "1bff1d05-7c3f-4c88-8c41-d1f301e57e40",
+      "name": "Enter input value in input fundSearch",
+      "action_id": "50491e52-fb16-4b4b-acf7-48636cf3a46a",
+      "timestamp": 1776938986866,
+      "target_name": "input_fundSearch",
+      "target_test_object_id": "d4944cdf-f4be-4b8b-9f84-93381565df58",
+      "sub_steps": []
+    },
+    {
+      "id": "a18fa9b3-9661-47b1-866f-b4cf971c98b0",
+      "name": "Click on item fidelityAbsoluteIncomeFund",
+      "action_id": "9a75e2b0-014f-49ef-aaa2-e958e0202deb",
+      "timestamp": 1776938989385,
+      "target_name": "item_fidelityAbsoluteIncomeFund",
+      "target_test_object_id": "d171cce6-89a5-45a0-83c4-dab52e91e09a",
+      "sub_steps": []
+    },
+    {
+      "id": "c9d547e1-6149-4d2b-b698-336fbfd1f4ad",
+      "name": "Click on div searchWrapper -> Navigate to page ''",
+      "action_id": "7e1f2962-a0c4-442c-9ed1-03bf1fa2b845",
+      "timestamp": 1776938991969,
+      "target_name": "div_searchWrapper",
+      "target_test_object_id": "4d702ed0-7c59-4a1c-a961-a701093e5742",
+      "sub_steps": []
+    },
+    {
+      "id": "805d07b0-f49a-41bb-bbec-35ecca98d9da",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
