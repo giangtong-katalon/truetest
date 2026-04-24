@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate through the investment application, explore various sections, add and remove items from the watchlist, and verify the home page.</description>
+   <name>TC1-Navigate and Manage Watchlist in Investment Application</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c3a2905-5f42-4db4-95a1-873e2ee2a1b8</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>TRUETEST</productName>
+      <properties>
+         <entry>
+            <key>flowId</key>
+            <value>cb96d00a-3823-42f4-8931-8488a1c020bf</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>'8'</defaultValue>
+      <description>Step 14: Click on button watchlistAction (addToWatchlist2) - (Dynamic locator variable)</description>
+      <id>2b1a2d2c-ef5f-460c-97eb-c5a0d15bb104</id>
+      <masked>false</masked>
+      <name>button_watchlistAction_TrNthChild</name>
+   </variable>
+   <variable>
+      <defaultValue>'9'</defaultValue>
+      <description>Step 16: Click on button watchlistAction (removeFromWatchlist2) -> Navigate to page '' - (Dynamic locator variable)</description>
+      <id>c0a1dbb9-c18e-42c4-8a92-08d96e071d7f</id>
+      <masked>false</masked>
+      <name>button_watchlistAction_TrNthChild_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'tr:nth-of-type(8) > .text-center > .btn'</defaultValue>
+      <description>Step 14: Click on button watchlistAction (addToWatchlist2) - (Dynamic locator variable)</description>
+      <id>d1898d3f-b122-4a5f-bad2-5df277cab6bb</id>
+      <masked>false</masked>
+      <name>button_watchlistAction_css_value</name>
+   </variable>
+   <variable>
+      <defaultValue>'tr:nth-of-type(9) > .text-center > .btn'</defaultValue>
+      <description>Step 16: Click on button watchlistAction (removeFromWatchlist2) -> Navigate to page '' - (Dynamic locator variable)</description>
+      <id>5c979698-2d75-4b9c-9df9-b742a9360af0</id>
+      <masked>false</masked>
+      <name>button_watchlistAction_css_value_1</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>cb96d00a-3823-42f4-8931-8488a1c020bf</id>
+      </flow>
+   </customField>
+</TestCaseEntity>

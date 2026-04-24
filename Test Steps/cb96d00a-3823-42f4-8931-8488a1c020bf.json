@@ -1,0 +1,154 @@
+{
+  "version": "3",
+  "steps": [
+    {
+      "id": "2db38f0d-7c37-4ac1-aeb8-8dc4fc884980",
+      "name": "Navigate to https://www.fidelity.ca/en",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    },
+    {
+      "id": "bf00c8ea-f353-4f4e-a303-321641225623",
+      "name": "Hover over button investmentsDropdown",
+      "action_id": "24a2cbbc-2092-412d-99c2-46f56c5a09a0",
+      "timestamp": 1777005619491,
+      "target_name": "button_investmentsDropdown",
+      "target_test_object_id": "2d529a53-5766-4a56-9133-59618aba3130",
+      "sub_steps": []
+    },
+    {
+      "id": "ead71e2c-8077-43f3-936c-ea8b27d1c10c",
+      "name": "Click on link etfs -> Navigate to page '/en/investments/etfs'",
+      "action_id": "7f950089-35d1-4e69-ac62-da4f1f627d27",
+      "timestamp": 1777005621009,
+      "target_name": "link_etfs",
+      "target_test_object_id": "cf624b32-b147-4649-8ad2-e2579422d4df",
+      "sub_steps": []
+    },
+    {
+      "id": "251e1246-1484-4396-b8ef-1567020cfca8",
+      "name": "Hover over button investmentsDropdown",
+      "action_id": "09f53857-1bec-4913-b552-6ffe17a09cce",
+      "timestamp": 1777005625631,
+      "target_name": "button_investmentsDropdown",
+      "target_test_object_id": "e9e14653-2301-4548-975c-a922cefffc11",
+      "sub_steps": []
+    },
+    {
+      "id": "bb84b725-2f5f-4f19-83c8-4c09c7e3f912",
+      "name": "Click on link mutualFunds -> Navigate to page '/en/investments/mutual-funds'",
+      "action_id": "26a4159b-7116-4da5-8132-6659b6e6814a",
+      "timestamp": 1777005626624,
+      "target_name": "link_mutualFunds",
+      "target_test_object_id": "5c4f989a-718e-4e3e-a2e1-bb6bf144ab0a",
+      "sub_steps": []
+    },
+    {
+      "id": "8f692c8e-3172-4e55-9011-13799a2e2b96",
+      "name": "Hover over button investorEducationDropdown",
+      "action_id": "fd29546c-d532-4ae0-ab45-4be1ebefa915",
+      "timestamp": 1777005631277,
+      "target_name": "button_investorEducationDropdown",
+      "target_test_object_id": "91e12c40-fd8d-4d8f-b663-aab2eb31aea6",
+      "sub_steps": []
+    },
+    {
+      "id": "f49544f0-f3f4-4d84-93f0-4518dc05e4d8",
+      "name": "Click on link investingForBeginners -> Navigate to page '/en/investor-education/investing-beginners'",
+      "action_id": "57ffbeed-2ced-49df-88c5-1d9175a361ac",
+      "timestamp": 1777005632676,
+      "target_name": "link_investingForBeginners",
+      "target_test_object_id": "a316b2bc-6c2c-4eb4-af44-0661a594886b",
+      "sub_steps": []
+    },
+    {
+      "id": "15bf6bae-dfa2-452f-b816-67346c47510b",
+      "name": "Hover over button investmentsDropdown",
+      "action_id": "8446d133-5320-4ee5-8b85-b45b2f6e16c2",
+      "timestamp": 1777005639419,
+      "target_name": "button_investmentsDropdown",
+      "target_test_object_id": "2b1fd61e-c011-4170-a332-cbcda6faa14a",
+      "sub_steps": []
+    },
+    {
+      "id": "e338d4d0-cdc2-4657-82e8-a46419919fa8",
+      "name": "Click on link priceAndPerformance -> Navigate to page '/en/priceandperformance'",
+      "action_id": "fc18e579-62e6-4005-8495-4c8dfe94d7e8",
+      "timestamp": 1777005641001,
+      "target_name": "link_priceAndPerformance",
+      "target_test_object_id": "59a6a8a7-cdc5-4f22-b412-f1c5ca084c9b",
+      "sub_steps": []
+    },
+    {
+      "id": "1431d227-dedf-4af6-a554-25a04a725526",
+      "name": "Click on button addToWatchlist",
+      "action_id": "05065dc3-b097-4fea-8e49-ccff4b0f7f98",
+      "timestamp": 1777005648315,
+      "target_name": "button_addToWatchlist",
+      "target_test_object_id": "c1766147-5a47-4d1c-bf56-1020494898f3",
+      "sub_steps": []
+    },
+    {
+      "id": "23a2d230-2f38-48b6-abe9-c23f1780becb",
+      "name": "Click on button close",
+      "action_id": "36b15590-8722-447d-a723-763c5add4696",
+      "timestamp": 1777005651021,
+      "target_name": "button_close",
+      "target_test_object_id": "b798a216-ec1b-4d93-b1cc-52ad0f20a651",
+      "sub_steps": []
+    },
+    {
+      "id": "7f4f1e28-f750-4939-8028-05e60edc1ed4",
+      "name": "Click on button removeFromWatchlist",
+      "action_id": "9cfa97e7-4bd2-48e6-b891-8ebbc535604a",
+      "timestamp": 1777005659338,
+      "target_name": "button_removeFromWatchlist",
+      "target_test_object_id": "f1f03d20-6336-4e9d-a380-f7f0d399fb34",
+      "sub_steps": []
+    },
+    {
+      "id": "a12f3439-4764-448b-a75f-152ca33874e8",
+      "name": "Click on button close",
+      "action_id": "b6a56348-bf2c-4655-8421-eb2ede11a63c",
+      "timestamp": 1777005661578,
+      "target_name": "button_close",
+      "target_test_object_id": "b798a216-ec1b-4d93-b1cc-52ad0f20a651",
+      "sub_steps": []
+    },
+    {
+      "id": "a77ba79c-ff30-4e1c-9396-d71cfbc03bf6",
+      "name": "Click on button watchlistAction (addToWatchlist2)",
+      "action_id": "78432550-2a7c-4c66-89f2-66ec90f9b54d",
+      "timestamp": 1777005671464,
+      "target_name": "button_watchlistAction",
+      "target_test_object_id": "a36e8321-5c65-4d00-9b83-27e792918d8d",
+      "sub_steps": []
+    },
+    {
+      "id": "b913e1f7-1702-4e6c-bf19-2447c5a88075",
+      "name": "Click on button close",
+      "action_id": "23fbeacc-ecb9-4e65-81bc-4e43ef036a39",
+      "timestamp": 1777005673738,
+      "target_name": "button_close",
+      "target_test_object_id": "b798a216-ec1b-4d93-b1cc-52ad0f20a651",
+      "sub_steps": []
+    },
+    {
+      "id": "e9c3cba0-406d-41be-9881-022d9654dd28",
+      "name": "Click on button watchlistAction (removeFromWatchlist2) -> Navigate to page ''",
+      "action_id": "d3f7481e-6741-41a2-addd-a00fe4ffb19c",
+      "timestamp": 1777005680550,
+      "target_name": "button_watchlistAction",
+      "target_test_object_id": "14ea966c-0a32-4835-97f3-9c7dd2bceae6",
+      "sub_steps": []
+    },
+    {
+      "id": "80ccc0c8-8821-46db-ac1a-1678d165057d",
+      "name": "Take full page screenshot as checkpoint",
+      "target_name": "",
+      "target_test_object_id": "",
+      "sub_steps": []
+    }
+  ]
+}
